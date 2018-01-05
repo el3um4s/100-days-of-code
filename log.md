@@ -17,7 +17,7 @@ I want to:
 
 ### R1D1: January 4, 2018
 
-First day: I started a FreeCodeCamep's project (Advanced Front End Development Project): **[Build a Tic Tac Toe Game]** (https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game).
+First day: I started a FreeCodeCamep's project (Advanced Front End Development Project): **[Build a Tic Tac Toe Game](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)**.
 I made the html and css and started the JS.
 I decided not to worry about the goodlooking graphic; I want to focus on JavaScript, first.
 
