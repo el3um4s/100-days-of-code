@@ -24,7 +24,7 @@ I decided not to worry about the goodlooking graphic; I want to focus on JavaScr
 Link to my progress: [codepen](https://codepen.io/el3um4s/pen/rpGwdL)
 
 
-### R2D2: January 5, 2018 (2.5h)
+### R1D2: January 5, 2018 (2.5h)
 
 Second day: I continued with the Tic Tac Toe Game. I made the main functions:
 * **draw** the symbol x and o
@@ -33,3 +33,16 @@ Second day: I continued with the Tic Tac Toe Game. I made the main functions:
 * choose whether want to play (**x** or **o**)
 
 Link to my progress: [codepen](https://codepen.io/el3um4s/pen/rpGwdL)
+
+### R1D3: January 6, 2018 (1.5h)
+
+Third day: **I finished the Tic Tac Toe Game**. Hurray! :smiley::smiley::smiley:
+
+The user stories:
+1. I can play a game of Tic Tac Toe with the computer.
+2. My game will reset as soon as it's over so I can play again.
+3. I can choose whether I want to play as X or O.
+
+The style is very simple and essential; I think It's my cup of tea :tea:!  
+
+Link to my project: [codepen: Tic Tac Toe Game](https://s.codepen.io/el3um4s/debug/rpGwdL/bYrdyGqqaqZA)
