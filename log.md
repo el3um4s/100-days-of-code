@@ -49,7 +49,7 @@ The style is very simple and essential; I think It's my cup of tea :tea:!
   * [codepen: Tic Tac Toe Game](https://s.codepen.io/el3um4s/debug/rpGwdL/bYrdyGqqaqZA)
   * [gist](https://gist.github.com/el3um4s/da57b8adfd92039d00a63d23129f14f3)
 
-### R1D4: January 7, 2018
+### R1D4: January 7, 2018 (2.5h)
 
 4th day: I start to work to a new FreeCodeCamp's challenge: **Build a Simon Game**.
 
