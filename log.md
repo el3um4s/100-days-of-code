@@ -5,8 +5,8 @@
 I've decided to join the #100DaysOfCode Challenge.
 I want to:
 1. finish the FreeCodeCamp's **Front End Development Certification**
-2. do the Udacity's **ES6 - JavaScript Improved** 
-3. do the Udemy's **The Web Developer Bootcamp**
+2. do the Udacity **ES6 - JavaScript Improved** 
+3. do the Udemy **The Web Developer Bootcamp**
 
 **Link(s)**
 1. [Javascript30](https://javascript30.com/)
@@ -66,3 +66,19 @@ I've created the user interface and a basic shape for the game.
 **Link** to my project:
   * [codepen](https://codepen.io/el3um4s/full/mppddR/)
   * [gist](https://gist.github.com/el3um4s/0c623392e4b1479e8afe81a838ceaa43)
+
+### R1D6: January 9, 2018 (2h)
+
+6th day: This was a productive day! I started the Udacity [**ES6** - JavaScript Improved course](https://eu.udacity.com/course/es6-javascript-improved--ud356). I'm **learning a lot of things**:
+* Let and Const
+* Template Literals
+* Destructuring
+* For...of Loop
+* Spread... Operator
+* ...Rest parameter
+
+I also created a new folder in my GitHub repository: it's dedicated to this course ([link](https://github.com/el3um4s/100-days-of-code/tree/master/Udacity/ES6%20-%20JavaScript%20Improved)). I discovered **Markdown** syntax: I love this!
+
+**Link**:
+  * [course's folder](https://github.com/el3um4s/100-days-of-code/tree/master/Udacity/ES6%20-%20JavaScript%20Improved)
+  * [Lesson 1 - Syntax](https://github.com/el3um4s/100-days-of-code/tree/master/Udacity/ES6%20-%20JavaScript%20Improved/Lesson%201%20-%20Syntax)
