@@ -58,3 +58,11 @@ I've created the user interface and a basic shape for the game.
 **Link** to my project: 
   * [codepen](https://codepen.io/el3um4s/full/mppddR/)
   * [gist](https://gist.github.com/el3um4s/0c623392e4b1479e8afe81a838ceaa43)
+
+### R1D5: January 8, 2018 (3h)
+
+5th day: :smiley: I finished the **Simon Game** and I claimed my first **FreeCodeCamp certification**: [View My Front End Development Certification](https://www.freecodecamp.org/el3um4s/front-end-certification)
+
+**Link** to my project:
+  * [codepen](https://codepen.io/el3um4s/full/mppddR/)
+  * [gist](https://gist.github.com/el3um4s/0c623392e4b1479e8afe81a838ceaa43)
