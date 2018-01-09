@@ -19,4 +19,4 @@ function getClothing(isCold) {
 
 
 
-[rispostaGiusta]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
+[rispostaGiusta]: https://github.com/el3um4s/100-days-of-code/blob/master/Udacity/ES6%20-%20JavaScript%20Improved/icon-tick.png
