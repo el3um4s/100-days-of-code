@@ -1,6 +1,6 @@
 ## Let and Const
 
-### QUESTION 1 OF 3
+#### QUESTION 1 OF 3
 What do you expect to be the output from running **getClothing(false)**?
 ```javascript
 function getClothing(isCold) {
@@ -14,5 +14,9 @@ function getClothing(isCold) {
 ```
 1. ReferenceError:freezing is not defined
 2. Grab a Jacket!
-3. Undefinde
+3. Undefined ![rispostaGiusta]
 4. It's a shorts kind of day
+
+
+
+[rispostaGiusta]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
