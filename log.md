@@ -82,3 +82,12 @@ I also created a new folder in my GitHub repository: it's dedicated to this cour
 **Link**:
   * [course's folder](https://github.com/el3um4s/100-days-of-code/tree/master/Udacity/ES6%20-%20JavaScript%20Improved)
   * [Lesson 1 - Syntax](https://github.com/el3um4s/100-days-of-code/tree/master/Udacity/ES6%20-%20JavaScript%20Improved/Lesson%201%20-%20Syntax)
+
+### R1d7: January 10, 2018 (1h)
+
+7th day: I started the 2nd lesson: the Functions. It's interesting; I love **Arrow Functions**. But I have problems with *"this"*.
+I also worked on a layout for my italian keyboard on windows. Now I can write backtick with **AltGr + '**
+
+**Link**
+  * [layout tastiera italiana con tilde e backtick](https://github.com/el3um4s/Tastiera-Italiana-Con-Tilde-Backtick)
+  * [Lesson 2 - Functions](https://github.com/el3um4s/100-days-of-code/tree/master/Udacity/ES6%20-%20JavaScript%20Improved/Lesson%202%20-%20Functions)
