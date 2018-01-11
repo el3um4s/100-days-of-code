@@ -5,15 +5,17 @@
 I've decided to join the #100DaysOfCode Challenge.
 I want to:
 1. finish the FreeCodeCamp's **Front End Development Certification**
-2. do the Udacity **ES6 - JavaScript Improved**
-3. do the Udemy **The Web Developer Bootcamp**
+1. do the Udacity **ES6 - JavaScript Improved**
+1. do the Udacity **Object-Oriented JavaScript**
+1. do the Udemy **The Web Developer Bootcamp**
 
 **Link(s)**
+1. [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
+1. [ES6 - JavaScript Improved](https://eu.udacity.com/course/es6-javascript-improved--ud356)
+1. [Object-Oriented JavaScript](https://eu.udacity.com/course/object-oriented-javascript--ud015)
+1. [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview)
+1. [https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
 1. [Javascript30](https://javascript30.com/)
-2. [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview)
-3. [https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
-4. [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
-5. [ES6 - JavaScript Improved](https://eu.udacity.com/course/es6-javascript-improved--ud356)
 
 ### R1D1: January 4, 2018 (1h)
 
@@ -94,4 +96,4 @@ I also worked on a layout for my italian keyboard on Windows. Now I can write ba
 
 ### R1D8: January 11, 2018
 
-8th day: I'm testing [GitKraken for Windows](https://www.gitkraken.com/): I really need to know more about GitHub. Maybe my next course will be relate whit this.
+8th day: I'm testing [GitKraken for Windows](https://www.gitkraken.com/): I really need to know more about GitHub. Maybe ones of my next courses will be relate whith this.
