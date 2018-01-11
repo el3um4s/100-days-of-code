@@ -5,7 +5,7 @@
 I've decided to join the #100DaysOfCode Challenge.
 I want to:
 1. finish the FreeCodeCamp's **Front End Development Certification**
-2. do the Udacity **ES6 - JavaScript Improved** 
+2. do the Udacity **ES6 - JavaScript Improved**
 3. do the Udemy **The Web Developer Bootcamp**
 
 **Link(s)**
@@ -55,7 +55,7 @@ The style is very simple and essential; I think It's my cup of tea :tea:!
 
 I've created the user interface and a basic shape for the game.
 
-**Link** to my project: 
+**Link** to my project:
   * [codepen](https://codepen.io/el3um4s/full/mppddR/)
   * [gist](https://gist.github.com/el3um4s/0c623392e4b1479e8afe81a838ceaa43)
 
@@ -83,7 +83,7 @@ I also created a new folder in my GitHub repository: it's dedicated to this cour
   * [course's folder](https://github.com/el3um4s/100-days-of-code/tree/master/Udacity/ES6%20-%20JavaScript%20Improved)
   * [Lesson 1 - Syntax](https://github.com/el3um4s/100-days-of-code/tree/master/Udacity/ES6%20-%20JavaScript%20Improved/Lesson%201%20-%20Syntax)
 
-### R1d7: January 10, 2018 (1h)
+### R1D7: January 10, 2018 (1h)
 
 7th day: I started the 2nd lesson: the Functions. It's interesting; I love **Arrow Functions**. But I have problems with *"this"*.
 I also worked on a layout for my italian keyboard on windows. Now I can write backtick with **AltGr + '**
