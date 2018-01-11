@@ -98,7 +98,7 @@ I also worked on a layout for my italian keyboard on Windows. Now I can write ba
 
 `8th day` I'm testing [**GitKraken for Windows and Linux**](https://www.gitkraken.com/): I really need to know more about GitHub. Maybe one of my next courses will be related with this. Also, I had uninstalled Brackets (it's going too slow after the last update) and installed [**Atom**](https://atom.io/).
 
-About Javascript: I finished the 2nd lesson: **The functions**. I repeated the **this** section; then i did **Default Function Parameters** and **JavaScript Classes**.
+About Javascript: I finished the 2nd lesson: **The functions**. I repeated the **this** section; then I did **Default Function Parameters** and **JavaScript Classes**.
 
 **Link**
   * [Lesson 2 - Functions](https://github.com/el3um4s/100-days-of-code/tree/master/Udacity/ES6%20-%20JavaScript%20Improved/Lesson%202%20-%20Functions)
