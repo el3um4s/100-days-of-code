@@ -14,7 +14,7 @@ I want to:
 1. [ES6 - JavaScript Improved](https://eu.udacity.com/course/es6-javascript-improved--ud356)
 1. [Object-Oriented JavaScript](https://eu.udacity.com/course/object-oriented-javascript--ud015)
 1. [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview)
-1. [https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
+1. [The Advanced Web Developer Bootcamp/learn/v4/overview](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
 1. [Javascript30](https://javascript30.com/)
 
 ### R1D1: January 4, 2018 (1h)
