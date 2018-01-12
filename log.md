@@ -104,3 +104,16 @@ About Javascript: I finished the 2nd lesson: **The functions**. I repeated the *
   * [Lesson 2 - Functions](https://github.com/el3um4s/100-days-of-code/tree/master/Udacity/ES6%20-%20JavaScript%20Improved/Lesson%202%20-%20Functions)
   * [GitKraken](https://www.gitkraken.com/)
   * [Atom](https://atom.io/)
+
+### R1D9: January 12, 2018 (2h)
+
+`9th day` Hard day: the computer I use for my job is dying. Maybe I have to buy another one.
+I studied only two sections of [**Lesson 3 - Built-ins**](https://github.com/el3um4s/100-days-of-code/tree/master/Udacity/ES6%20-%20JavaScript%20Improved/Lesson%203%20-%20Built-ins):
+
+  * Symbols
+  * Iteration & Iterable Protocols
+
+I think this lesson it's diffucult. I didn't understand **[Symbol.iterator]**, tomorrow I'm going to revise it.
+
+**Link**
+  * [Lesson 3 - Built-ins](https://github.com/el3um4s/100-days-of-code/tree/master/Udacity/ES6%20-%20JavaScript%20Improved/Lesson%203%20-%20Built-ins)
