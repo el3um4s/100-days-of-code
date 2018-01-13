@@ -7,7 +7,7 @@ I want to:
 1. finish the FreeCodeCamp's **Front End Development Certification**
 1. do Udacity **ES6 - JavaScript Improved**
 1. do Udacity **Object-Oriented JavaScript**
-1. do Udacity **Javascript Promises**
+1. do Udacity **JavaScript Promises**
 1. do Udemy **The Web Developer Bootcamp**
 
 **Link(s)**
@@ -119,3 +119,13 @@ I think this lesson it's diffucult. I didn't understand **[Symbol.iterator]**, t
 
 **Link**
   * [Lesson 3 - Built-ins](https://github.com/el3um4s/100-days-of-code/tree/master/Udacity/ES6%20-%20JavaScript%20Improved/Lesson%203%20-%20Built-ins)
+
+
+### R1D10: January 13, 2018 (2h)
+
+`10th day` I love **Maps**, I don't understand **Promises**, I think **Proxies** are very interesting and **Generators** are powerful. I need to make practice: ES6 is great but I have no experience.
+I added to my `To Do List` the Udacity course about *JavaScript Promises*.
+
+**Link**
+  * [Lesson 3 - Built-ins](https://github.com/el3um4s/100-days-of-code/tree/master/Udacity/ES6%20-%20JavaScript%20Improved/Lesson%203%20-%20Built-ins)
+  * [JavaScript Promises](https://eu.udacity.com/course/javascript-promises--ud898)
