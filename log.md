@@ -5,16 +5,18 @@
 I've decided to join the #100DaysOfCode Challenge.
 I want to:
 1. finish the FreeCodeCamp's **Front End Development Certification**
-1. do the Udacity **ES6 - JavaScript Improved**
-1. do the Udacity **Object-Oriented JavaScript**
-1. do the Udemy **The Web Developer Bootcamp**
+1. do Udacity **ES6 - JavaScript Improved**
+1. do Udacity **Object-Oriented JavaScript**
+1. do Udacity **Javascript Promises**
+1. do Udemy **The Web Developer Bootcamp**
 
 **Link(s)**
 1. [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
 1. [ES6 - JavaScript Improved](https://eu.udacity.com/course/es6-javascript-improved--ud356)
 1. [Object-Oriented JavaScript](https://eu.udacity.com/course/object-oriented-javascript--ud015)
+1. [JavaScript Promises](https://eu.udacity.com/course/javascript-promises--ud898)
 1. [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview)
-1. [The Advanced Web Developer Bootcamp/learn/v4/overview](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
+1. [The Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
 1. [Javascript30](https://javascript30.com/)
 
 ### R1D1: January 4, 2018 (1h)
