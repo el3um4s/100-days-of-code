@@ -8,7 +8,7 @@
 
 ### 	Front-End Web Developer
 
-[**Nanodegree Program Syllabus**](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001)
+  [**Nanodegree Program Syllabus**](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001)
 
   1. [Intro to HTML and CSS](https://eu.udacity.com/course/ud304) - Approx. 3 Weeks
   1. [Responsive Images](https://eu.udacity.com/course/responsive-images--ud882) - Approx. 2 Weeks
