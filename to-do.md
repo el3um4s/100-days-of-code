@@ -21,7 +21,8 @@
 1. [JavaScript Testing](https://eu.udacity.com/course/ud549) - Approx. 2 Weeks
 
 
-1. [ES6 - JavaScript Improved](https://eu.udacity.com/course/es6-javascript-improved--ud356) - Approx. 4 Weeks
+
+1. [ES6 - JavaScript Improved](https://eu.udacity.com/course/es6-javascript-improved--ud356) - Approx. 4 Weeks ![rispostaGiusta]
 1. [JavaScript Promises](https://eu.udacity.com/course/javascript-promises--ud898) - Approx. 3 Weeks
 1. [Asynchronous JavaScript Requests](https://eu.udacity.com/course/asynchronous-javascript-requests--ud109) - Approx. 3 Weeks
 1. [Offline Web Applications](https://eu.udacity.com/course/offline-web-applications--ud899) - Approx. 3 Weeks

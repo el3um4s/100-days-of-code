@@ -129,3 +129,8 @@ I added to my `To Do List` the Udacity course about *JavaScript Promises*.
 **Link**
   * [Lesson 3 - Built-ins](https://github.com/el3um4s/100-days-of-code/tree/master/Udacity/ES6%20-%20JavaScript%20Improved/Lesson%203%20-%20Built-ins)
   * [JavaScript Promises](https://eu.udacity.com/course/javascript-promises--ud898)
+
+
+### R1D11: January 14, 2018 (1h)
+
+`11th day` I **finished** the Udacity [**ES6** - JavaScript Improved course](https://eu.udacity.com/course/es6-javascript-improved--ud356): Hurray!
