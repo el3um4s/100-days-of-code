@@ -134,3 +134,14 @@ I added to my `To Do List` the Udacity course about *JavaScript Promises*.
 ### R1D11: January 14, 2018 (1h)
 
 `11th day` I **finished** the Udacity [**ES6** - JavaScript Improved course](https://eu.udacity.com/course/es6-javascript-improved--ud356): Hurray!
+
+
+### R1D12: January 16, 2018 (4h)
+
+`12th day` Yesterday I was sick so I didn't do anything. Today I didn't go to work and I stayed at home. I studied a lot of things:
+
+  1. Markdown
+  2. Basic of GitHub
+  3. Electron's History
+
+I started a new Udemy Course: [Electron for Desktop Apps](https://www.udemy.com/electron-react-tutorial/) by Stephen Grider ([@ste_grider](https://twitter.com/ste_grider)) I opened a new Git to track my progress in the first project: [electron-videoinfo](https://github.com/el3um4s/electron-videoinfo).
