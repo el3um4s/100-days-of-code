@@ -2,7 +2,7 @@
 
 ### Git And GitHub
 
-  1. [Writing READMEs](https://eu.udacity.com/course/writing-readmes--ud777) - Approx. 3 Days
+  1. [Writing READMEs](https://eu.udacity.com/course/writing-readmes--ud777) - Approx. 3 Days ![rispostaGiusta]
   1. [Version Control with Git](https://eu.udacity.com/course/version-control-with-git--ud123) - Approx. 4 Weeks
   1. [GitHub & Collaboration](https://eu.udacity.com/course/github-collaboration--ud456) - Approx. 3 Weeks
 
