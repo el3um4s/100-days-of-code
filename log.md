@@ -145,3 +145,8 @@ I added to my `To Do List` the Udacity course about *JavaScript Promises*.
   3. Electron's History
 
 I started a new Udemy Course: [Electron for Desktop Apps](https://www.udemy.com/electron-react-tutorial/) by Stephen Grider ([@ste_grider](https://twitter.com/ste_grider)) I opened a new Git to track my progress in the first project: [electron-videoinfo](https://github.com/el3um4s/electron-videoinfo).
+
+
+### R1D13: January 17, 2018 (1h)
+
+`13th dat` Today I watched the first part of the course about Electron.
