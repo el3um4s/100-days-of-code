@@ -18,6 +18,7 @@ I want to:
 1. [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview)
 1. [The Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
 1. [Javascript30](https://javascript30.com/)
+1. [Other interesting courses](https://github.com/el3um4s/100-days-of-code/blob/master/to-do.md) 
 
 ### R1D1: January 4, 2018 (1h)
 
