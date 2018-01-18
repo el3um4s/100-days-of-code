@@ -150,3 +150,7 @@ I started a new Udemy Course: [Electron for Desktop Apps](https://www.udemy.com/
 ### R1D13: January 17, 2018 (1h)
 
 `13th dat` Today I watched the first part of the course about Electron.
+
+Link: 
+ * [Electron for Desktop Apps](https://www.udemy.com/electron-react-tutorial/) 
+ * [electron-videoinfo](https://github.com/el3um4s/electron-videoinfo)
