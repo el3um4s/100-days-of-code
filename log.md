@@ -155,3 +155,8 @@ I started a new Udemy Course: [Electron for Desktop Apps](https://www.udemy.com/
 Link: 
  * [Electron for Desktop Apps](https://www.udemy.com/electron-react-tutorial/) 
  * [electron-videoinfo](https://github.com/el3um4s/electron-videoinfo)
+
+### R1D14: January 18, 2018 (2h)
+
+`13th dat` Oggi ho finito la parte in HTML e JS dell'app VideoInfo. Domani dovrò sistemare la parte grafica. Penso di aver capito abbastanza bene il concetto base per fare comunicare _MainWindow_ ed _Electron App_. 
+
