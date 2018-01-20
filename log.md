@@ -1,9 +1,9 @@
 # 100 Days Of Code - Log
 
-### Progetti completati
+### Projects completed
 
 1. R1D3 - FreeCodeCamp - [**Tic Tac Toe Game**](https://s.codepen.io/el3um4s/debug/rpGwdL/bYrdyGqqaqZA)
-1. R1D7 - Personale - [**Layout tastiera italiana con tilde e backtick** per Windows](https://github.com/el3um4s/Tastiera-Italiana-Con-Tilde-Backtick)
+1. R1D7 - [**Layout italian keyboard with tilde and backtick** per Windows](https://github.com/el3um4s/Tastiera-Italiana-Con-Tilde-Backtick)
 1. R1D16 - Udemy - [**Video Info**](https://github.com/el3um4s/electron-videoinfo/blob/master/README.md)
 
 ### R1D0: January 1, 2018
