@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Progetti completati
+
+1. R1D3 - FreeCodeCamp - [**Tic Tac Toe Game**](https://s.codepen.io/el3um4s/debug/rpGwdL/bYrdyGqqaqZA)
+1. R1D7 - Personale - [**Layout tastiera italiana con tilde e backtick** per Windows](https://github.com/el3um4s/Tastiera-Italiana-Con-Tilde-Backtick)
+1. R1D16 - Udemy - [**Video Info**](https://github.com/el3um4s/electron-videoinfo/blob/master/README.md)
+
 ### R1D0: January 1, 2018
 
 I've decided to join the #100DaysOfCode Challenge.
@@ -160,6 +166,11 @@ Link:
 
 `14th day` Oggi ho finito la parte in HTML e JS dell'app VideoInfo. Domani dovrò sistemare la parte grafica. Penso di aver capito abbastanza bene il concetto base per fare comunicare _MainWindow_ ed _Electron App_. 
 
-## R1D15: January 19, 2018 (3h)
+### R1D15: January 19, 2018 (3h)
 
 `15th day`Ho finito la parte grafica dell'app VideoInfo. Il codice HTML non è elegante ma per il momento può bastare. Ho poi provato a creare un eseguibile per Window ma dopo un'ora di tentativi non sono riuscito a fare nulla.
+
+
+### R1D16: January 20, 2018 (4h)
+
+`16th day` Finito il progetto **Video Info**. Ho creato un file eseguibile (portable) per Windows (64bit) e un installer per Linux (deb a 64bit). Inoltre ho aggiornato il repository GitHub completando il file [README](https://github.com/el3um4s/electron-videoinfo/blob/master/README.md) aggiungendo un'immagine dell'app in esecuzione.
