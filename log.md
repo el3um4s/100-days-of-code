@@ -158,5 +158,8 @@ Link:
 
 ### R1D14: January 18, 2018 (2h)
 
-`13th dat` Oggi ho finito la parte in HTML e JS dell'app VideoInfo. Domani dovrò sistemare la parte grafica. Penso di aver capito abbastanza bene il concetto base per fare comunicare _MainWindow_ ed _Electron App_. 
+`14th day` Oggi ho finito la parte in HTML e JS dell'app VideoInfo. Domani dovrò sistemare la parte grafica. Penso di aver capito abbastanza bene il concetto base per fare comunicare _MainWindow_ ed _Electron App_. 
 
+## R1D15: January 19, 2018 (3h)
+
+`15th day`Ho finito la parte grafica dell'app VideoInfo. Il codice HTML non è elegante ma per il momento può bastare. Ho poi provato a creare un eseguibile per Window ma dopo un'ora di tentativi non sono riuscito a fare nulla.
