@@ -174,3 +174,8 @@ Link:
 ### R1D16: January 20, 2018 (4h)
 
 `16th day` Finito il progetto **Video Info**. Ho creato un file eseguibile (portable) per Windows (64bit) e un installer per Linux (deb a 64bit). Inoltre ho aggiornato il repository GitHub completando il file [README](https://github.com/el3um4s/electron-videoinfo/blob/master/README.md) aggiungendo un'immagine dell'app in esecuzione.
+
+
+### R1D17: January 21, 2018 (1h)
+
+`17th day` Oggi solamente un'ora di studio del corso [Object-Oriented JavaScript](https://eu.udacity.com/course/object-oriented-javascript--ud015).
