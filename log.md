@@ -3,6 +3,7 @@
 ### Projects completed
 
 1. R1D3 - FreeCodeCamp - [**Tic Tac Toe Game**](https://s.codepen.io/el3um4s/debug/rpGwdL/bYrdyGqqaqZA)
+1. R1D5 - FreeCodeCamp - [**Simon Game**](https://codepen.io/el3um4s/full/mppddR/)
 1. R1D7 - [**Layout italian keyboard with tilde and backtick** per Windows](https://github.com/el3um4s/Tastiera-Italiana-Con-Tilde-Backtick)
 1. R1D16 - Udemy - [**Video Info**](https://github.com/el3um4s/electron-videoinfo/blob/master/README.md)
 
