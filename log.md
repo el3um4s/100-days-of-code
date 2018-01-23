@@ -179,3 +179,15 @@ Link:
 ### R1D17: January 21, 2018 (1h)
 
 `17th day` Oggi solamente un'ora di studio del corso [Object-Oriented JavaScript](https://eu.udacity.com/course/object-oriented-javascript--ud015).
+
+
+### R1D18: January 22, 2018 (3h)
+
+`18th day` Ho finito di vedere i video del corso [Object-Oriented JavaScript](https://eu.udacity.com/course/object-oriented-javascript--ud015). Da domani dovrò cominciare a lavorare sul progetto finale: creare un clone di **Frogger** (deve essere simile a [questo video](https://www.youtube.com/watch?v=p2JhGrrwLuQ&feature=youtu.be)).
+
+Documenti e cose da leggere per domani:
+ - [Frogger Game - Getting Started](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/edit
+)
+ - [Classic Arcade Game Clone](https://review.udacity.com/#!/rubrics/15/view)
+ - [GitHub: frontend-nanodegree-arcade-game](https://github.com/udacity/frontend-nanodegree-arcade-game)
+ - [Video](https://www.youtube.com/watch?v=p2JhGrrwLuQ&feature=youtu.be)
