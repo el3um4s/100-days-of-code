@@ -15,7 +15,7 @@
   1. [Responsive Web Design Fundamentals](https://eu.udacity.com/course/ud893) - Approx. 2 Weeks
   1. [JavaScript Basics](https://eu.udacity.com/course/ud804) - Approx. 3 Weeks
   1. [Intro to jQuery](https://eu.udacity.com/course/ud245) - Approx. 2 Days
-  1. [Object-Oriented JavaScript](https://eu.udacity.com/course/object-oriented-javascript--ud015) - Approx. 5 Weeks
+  1. [Object-Oriented JavaScript](https://eu.udacity.com/course/object-oriented-javascript--ud015) - Approx. 5 Weeks ![rispostaGiusta]
   1. [HTML5 Canvas](https://eu.udacity.com/course/html5-canvas--ud292) - Approx. 2 Weeks
   1. [Website Performance Optimization](https://eu.udacity.com/course/website-performance-optimization--ud884) - Approx. 1 Week
   1. [Browser Rendering Optimization](https://eu.udacity.com/course/browser-rendering-optimization--ud860) - Approx. 1 Months
