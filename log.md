@@ -192,3 +192,11 @@ Documenti e cose da leggere per domani:
  - [Classic Arcade Game Clone](https://review.udacity.com/#!/rubrics/15/view)
  - [GitHub: frontend-nanodegree-arcade-game](https://github.com/udacity/frontend-nanodegree-arcade-game)
  - [Video](https://www.youtube.com/watch?v=p2JhGrrwLuQ&feature=youtu.be)
+
+### R1D19: January 23, 2018 (5h)
+
+`19th day` Finito il progetto **Frogger**. Adesso è tardissimo, domani ci sarà da sistemare il README. Per il momento, evviva!
+
+Link:
+ - [pagina per giocare](https://el3um4s.github.io/frontend-nanodegree-arcade-game/)
+ - [codice](https://github.com/el3um4s/frontend-nanodegree-arcade-game)
