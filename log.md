@@ -25,7 +25,7 @@ I want to:
 1. [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview)
 1. [The Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
 1. [Javascript30](https://javascript30.com/)
-1. [Other interesting courses](https://github.com/el3um4s/100-days-of-code/blob/master/to-do.md) 
+1. [Other interesting courses](https://github.com/el3um4s/100-days-of-code/blob/master/to-do.md)
 
 ### R1D1: January 4, 2018 (1h)
 
@@ -159,13 +159,13 @@ I started a new Udemy Course: [Electron for Desktop Apps](https://www.udemy.com/
 
 `13th dat` Today I watched the first part of the course about Electron.
 
-Link: 
- * [Electron for Desktop Apps](https://www.udemy.com/electron-react-tutorial/) 
+Link:
+ * [Electron for Desktop Apps](https://www.udemy.com/electron-react-tutorial/)
  * [electron-videoinfo](https://github.com/el3um4s/electron-videoinfo)
 
 ### R1D14: January 18, 2018 (2h)
 
-`14th day` Oggi ho finito la parte in HTML e JS dell'app VideoInfo. Domani dovrò sistemare la parte grafica. Penso di aver capito abbastanza bene il concetto base per fare comunicare _MainWindow_ ed _Electron App_. 
+`14th day` Oggi ho finito la parte in HTML e JS dell'app VideoInfo. Domani dovrò sistemare la parte grafica. Penso di aver capito abbastanza bene il concetto base per fare comunicare _MainWindow_ ed _Electron App_.
 
 ### R1D15: January 19, 2018 (3h)
 
@@ -187,16 +187,25 @@ Link:
 `18th day` Ho finito di vedere i video del corso [Object-Oriented JavaScript](https://eu.udacity.com/course/object-oriented-javascript--ud015). Da domani dovrò cominciare a lavorare sul progetto finale: creare un clone di **Frogger** (deve essere simile a [questo video](https://www.youtube.com/watch?v=p2JhGrrwLuQ&feature=youtu.be)).
 
 Documenti e cose da leggere per domani:
- - [Frogger Game - Getting Started](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/edit
+ * [Frogger Game - Getting Started](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/edit
 )
- - [Classic Arcade Game Clone](https://review.udacity.com/#!/rubrics/15/view)
- - [GitHub: frontend-nanodegree-arcade-game](https://github.com/udacity/frontend-nanodegree-arcade-game)
- - [Video](https://www.youtube.com/watch?v=p2JhGrrwLuQ&feature=youtu.be)
+ * [Classic Arcade Game Clone](https://review.udacity.com/#!/rubrics/15/view)
+ * [GitHub: frontend-nanodegree-arcade-game](https://github.com/udacity/frontend-nanodegree-arcade-game)
+ * [Video](https://www.youtube.com/watch?v=p2JhGrrwLuQ&feature=youtu.be)
 
 ### R1D19: January 23, 2018 (5h)
 
 `19th day` Finito il progetto **Frogger**. Adesso è tardissimo, domani ci sarà da sistemare il README. Per il momento, evviva!
 
 Link:
- - [pagina per giocare](https://el3um4s.github.io/frontend-nanodegree-arcade-game/)
- - [codice](https://github.com/el3um4s/frontend-nanodegree-arcade-game)
+ * [pagina per giocare](https://el3um4s.github.io/frontend-nanodegree-arcade-game/)
+ * [codice](https://github.com/el3um4s/frontend-nanodegree-arcade-game)
+
+ ### R1D20: January 24, 2018 (2h)
+
+ `20th day` Cominciato a seguire il corso [**JavaScript Promises**](https://eu.udacity.com/course/javascript-promises--ud898) di Udacity. Interessante, ma ci sono un po' di problemi nel fare gli esercizi: `bower` (che non ho capito cosa è) non installa i componenti corretti e non riesco a testare il codice.
+ Sono andato avanti con il corso Udemy [**Electron for Desktop Apps**](https://www.udemy.com/electron-react-tutorial/). Il secondo progetto è una app `To Do List`: è un progetto _"semplice"_ ma serve per capire l'utilizzo dei `menù` in Electron. Inoltre spiega anche come gestire diverse `windows` (finestre) all'interno della stessa applicazione.
+
+ Link:
+  * [Electron for Desktop Apps](https://www.udemy.com/electron-react-tutorial/)
+  * [GitHub - electron-todos](https://github.com/el3um4s/electron-todos)
