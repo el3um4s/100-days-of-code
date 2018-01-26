@@ -209,3 +209,10 @@ Link:
  Link:
   * [Electron for Desktop Apps](https://www.udemy.com/electron-react-tutorial/)
   * [GitHub - electron-todos](https://github.com/el3um4s/electron-todos)
+
+### R1D21: January 25, 2018 (2h)
+
+`21th day` Oggi ho fatto pochino: sono andato avanti con i video del corso  Udemy su Electron. Ma prima ho finito l'esercizio sull'app **Todos**. Manca tutta la parte grafica: per il momento mi sono concentrato sul capire i concetti generali.
+
+Link:
+  * [GitHub - electron-todos](https://github.com/el3um4s/electron-todos)
