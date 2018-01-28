@@ -223,3 +223,7 @@ Link:
 
 Link:
   * [GitHub - electron-todos](https://github.com/el3um4s/electron-todos)
+
+### R1D23: January 27, 2018 (1h)
+
+`23th day` Ancora avanti con il corso Udemy su Electron. Sto scoprendo che Ubuntu presenta molti problemi con la gestione dell'icona sulla traybar. Peccato.
