@@ -222,8 +222,17 @@ Link:
 `22th day` Procedo con il corso Udemy su Electron. La parte di oggi riguarda come aggiungere l'icona sulla barra delle notifiche di Windows e osX. Peccato che ci siano un po' di problemi con Linux/Ubuntu. Per il momento ho usato un workaround tramite [electron-traywindow-positione](https://www.npmjs.com/package/electron-traywindow-positioner). Che poi è stata una fortuna perché è un modulo npm aggiornato solamente un paio di giorni fa.
 
 Link:
-  * [GitHub - electron-todos](https://github.com/el3um4s/electron-todos)
+  * [GitHub - electron-tasky](https://github.com/el3um4s/electron-tasky)
 
 ### R1D23: January 27, 2018 (1h)
 
 `23th day` Ancora avanti con il corso Udemy su Electron. Sto scoprendo che Ubuntu presenta molti problemi con la gestione dell'icona sulla traybar. Peccato.
+
+
+### R1D24: January 28, 2018 (1h)
+
+`24th day` Ho finito il terzo esercizio del corso. Ho scoperto, con mio sommo dispiacere, che Electron ha un po' di problemi con Ubuntu. Anzi, scorrendo le domande del corso, ci sono più problemi con Linux in generale. Ci sono dei workaround ma è un peccato.
+Non penso che andròa modificare ulteriormente questo progetto: è costruito con React, e non conosco nulla di React. Invece, dopo aver fatto il quarto esercizio (quello sulla parte _Combining Electron with React and Redux_) voglio tornare sulla app [electron-todos](https://github.com/el3um4s/electron-todos) per sistemare la parte grafica e fare un po' di esercizio.
+
+Link:
+  * [GitHub - electron-tasky](https://github.com/el3um4s/electron-tasky)
