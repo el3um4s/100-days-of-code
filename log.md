@@ -236,3 +236,8 @@ Non penso che andròa modificare ulteriormente questo progetto: è costruito con
 
 Link:
   * [GitHub - electron-tasky](https://github.com/el3um4s/electron-tasky)
+
+
+### R1D25: January 29, 2018 (1h)
+
+`25th day` Oggi solo un'ora, prima di cominciare il mio _vero_ lavoro. Ho testato **electron_tasky** su Windows 10 e ho scoperto che l'app non funzionava più. Ci sono problemi con l'intercettare il _right click_. Ho cambiato nuovamente il codice e adesso pare funzionare sia su Ubuntu 16.04 che su Windows 10.
