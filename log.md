@@ -242,3 +242,14 @@ Link:
 ### R1D25: January 29, 2018 (1h)
 
 `25th day` Oggi solo un'ora, prima di cominciare il mio _vero_ lavoro. Ho testato **electron_tasky** su Windows 10 e ho scoperto che l'app non funzionava più. Ci sono problemi con l'intercettare il _right click_. Ho cambiato nuovamente il codice e adesso pare funzionare sia su Ubuntu 16.04 che su Windows 10.
+
+
+### R1D26: January 30, 2018 (2h)
+
+`26th day` Ho cominciato l'ultima parte del corso. Per essere interessante, è interessante. Peccato che:
+ 1. non ho idea di come funzioni react e redux
+ 2. devo tornare sul corso di Udacity sulle promise: inizio a perdermi nelle spiegazioni.
+In ogni caso, ho creato il repository del progetto **electron-convert**
+
+Link:
+ * [GitHub - electron-convert](https://github.com/el3um4s/electron-convert)
