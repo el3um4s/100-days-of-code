@@ -12,11 +12,11 @@
 ### Certificates
 
  * R1D5 - [Free Code Camp's Front End Development Program](https://www.freecodecamp.org/el3um4s/front-end-certification)
- 
+
    <img src="https://raw.githubusercontent.com/el3um4s/100-days-of-code/master/Certificate/ToFZKBd.jpg" width="300">
 
  * R1D27 - [Electron for Desktop Apps](https://www.udemy.com/certificate/UC-1ASD4IB1/)
- 
+
    <img src="https://raw.githubusercontent.com/el3um4s/100-days-of-code/master/Certificate/UC-1ASD4IB1.jpg" width="300">
 
 
@@ -267,9 +267,15 @@ Link:
  * [GitHub - electron-convert](https://github.com/el3um4s/electron-convert)
 
 
-### R1D27: Januart 31, 2018 (1h)
+### R1D27: January 31, 2018 (1h)
 
 `27th day` Ho completato [**electron-convert**]((https://github.com/el3um4s/electron-convert) e finito il corso [Electron for Desktop Apps](https://www.udemy.com/electron-react-tutorial/). Sono soddisfatto: adesso ho una infarinatura generale di come funziona Electron.
 
 Link:
- * [**Convert**](https://github.com/el3um4s/electron-convert) (Only the course's code)
+ * [GitHub - electron-convert](https://github.com/el3um4s/electron-convert)
+
+
+### R1D28: February 1, 2018 (1h)
+
+`28th day` Ho Cominciato un nuovo corso Udemy: [Vue JS 2 - The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide/). Per il momento ho guardato la section 1 (in pratica l'introduzione) e fatto il primo esercizio.
+Momentaneamente ho creato una cartella su GitHub dove salvare gli esercizi fatti. Poi, quando comincerò con i progetti più grandi farò un repository specifico.
