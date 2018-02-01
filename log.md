@@ -7,6 +7,7 @@
 1. R1D7 - [**Layout italian keyboard with tilde and backtick** per Windows](https://github.com/el3um4s/Tastiera-Italiana-Con-Tilde-Backtick)
 1. R1D16 - Udemy - [**Video Info**](https://github.com/el3um4s/electron-videoinfo/blob/master/README.md)
 1. R1D25 - Udemy - [**Tasky**](https://github.com/el3um4s/electron-tasky) (Only the course's code)
+1. R1D27 - Udemy - [**Convert**](https://github.com/el3um4s/electron-convert) (Only the course's code)
 
 ### R1D0: January 1, 2018
 
@@ -253,3 +254,11 @@ In ogni caso, ho creato il repository del progetto **electron-convert**
 
 Link:
  * [GitHub - electron-convert](https://github.com/el3um4s/electron-convert)
+
+
+### R1D27: Januart 31, 2018 (1h)
+
+`27th day` Ho completato [**electron-convert**]((https://github.com/el3um4s/electron-convert) e finito il corso [Electron for Desktop Apps](https://www.udemy.com/electron-react-tutorial/). Sono soddisfatto: adesso ho una infarinatura generale di come funziona Electron.
+
+Link:
+ * [**Convert**](https://github.com/el3um4s/electron-convert) (Only the course's code)
