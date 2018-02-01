@@ -9,6 +9,17 @@
 1. R1D25 - Udemy - [**Tasky**](https://github.com/el3um4s/electron-tasky) (Only the course's code)
 1. R1D27 - Udemy - [**Convert**](https://github.com/el3um4s/electron-convert) (Only the course's code)
 
+### Certificates
+
+ * R1D5 - [Free Code Camp's Front End Development Program](https://www.freecodecamp.org/el3um4s/front-end-certification)
+ 
+   <img src="https://raw.githubusercontent.com/el3um4s/100-days-of-code/master/Certificate/ToFZKBd.jpg" width="300">
+
+ * R1D27 - [Electron for Desktop Apps](https://www.udemy.com/certificate/UC-1ASD4IB1/)
+ 
+   <img src="https://raw.githubusercontent.com/el3um4s/100-days-of-code/master/Certificate/UC-1ASD4IB1.jpg" width="300">
+
+
 ### R1D0: January 1, 2018
 
 I've decided to join the #100DaysOfCode Challenge.
