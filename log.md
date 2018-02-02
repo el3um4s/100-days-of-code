@@ -9,7 +9,7 @@
 1. R1D25 - Udemy - [**Tasky**](https://github.com/el3um4s/electron-tasky) (Only the course's code)
 1. R1D27 - Udemy - [**Convert**](https://github.com/el3um4s/electron-convert) (Only the course's code)
 
-### Certificates
+### Certifications
 
  * R1D5 - [Free Code Camp's Front End Development Program](https://www.freecodecamp.org/el3um4s/front-end-certification)
 
