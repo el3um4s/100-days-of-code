@@ -277,5 +277,9 @@ Link:
 
 ### R1D28: February 1, 2018 (1h)
 
-`28th day` Ho Cominciato un nuovo corso Udemy: [Vue JS 2 - The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide/). Per il momento ho guardato la section 1 (in pratica l'introduzione) e fatto il primo esercizio.
+`28th day` Ho Cominciato un nuovo corso Udemy: [VueJS 2 - The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide/). Per il momento ho guardato la section 1 (in pratica l'introduzione) e fatto il primo esercizio.
 Momentaneamente ho creato una cartella su GitHub dove salvare gli esercizi fatti. Poi, quando comincerò con i progetti più grandi farò un repository specifico.
+
+### R1D29: February 2, 2018 (1h)
+
+`29th day` Andato avanti con il corso su VueJS 2. Pare essere uno strumento utile. Anche se devo capire bene come sia possibile utilizzare dati più complessi rispetto a un oggetto contenuto nella dichiarazione `new Vue()`.
