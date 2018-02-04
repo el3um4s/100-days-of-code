@@ -11,50 +11,90 @@
 
 <body>
   <div id="app">
-    <input type="text" v-on:input="changeTitle" />
-    <p>{{ title }}</p>
-    <button v-on:click="increaseCounter">Click Me!</button>
-    <button v-on:click="increaseCounter($event, 2)">Increase by 2</button>
-    <button v-on:click="increaseBy(3)">Increase by 3</button>
-    <button v-on:click="counter +=4">Increase by JS</button>
-    <p>Counter: {{ counter }} is {{ counter > 10 ? 'greater than 10' : 'smaller than 10' }}</p>
-    <p v-on:mousemove="updateCoordinates">Coordinates: {{ x }} / {{ y }}
-      <span v-on:mousemove="dummy">DEAD SPOT</span>
-      <span>Live spot</span>
-      <span v-on:mousemove.stop>DEAD SPOT</span>
-    </p>
-    <input type="text" v-on:keyup.space.enter="alertMe" />
+    <p>VueJS is pretty cool - {{ YOUR_NAME }} ({{ AGE }})</p>
+    <p>{{ AGE * 3 }}</p>
+    <!-- <p>{{ Math.random() }}</p> -->
+    <p>{{ random() }}</p>
+    <div>
+      <p><strong>v-bind</strong></p>
+      <img v-bind:src="randomImage" style="width:100px;height:100px"></div>
+    <div><input type="text" v-bind:value="YOUR_NAME"></div>
+    <div>
+      <p><strong>v-on:input</strong></p>
+      <input type="text" v-on:input="changeTitle" />
+      <p>{{ title }}</p>
+    </div>
+    <div>
+      <p><strong>v-on:click</strong></p>
+      <button v-on:click="increaseCounter">Click Me!</button>
+      <button v-on:click="increaseCounter($event, 2)">Increase by 2</button>
+      <button v-on:click="increaseBy(3)">Increase by 3</button>
+      <button v-on:click="counter += 4">Increase by JS</button>
+      <button v-on:click="secondCounter++">Increase Second</button>
+      <p>Counter: {{ counter }} is {{ counter > 10 ? 'greater than 10' : 'smaller than 10' }}</p>
+      <p>Result: {{ result() }}</p>
+      <p>Second Counter: {{ secondCounter }}</p>
+    </div>
+    <div>
+      <p><strong>v-on:mousemove && v-on:nousemove.stop</strong></p>
+      <p v-on:mousemove="updateCoordinates">Coordinates: {{ x }} / {{ y }}
+        <span v-on:mousemove="dummy">DEAD SPOT</span>
+        <span>Live spot</span>
+        <span v-on:mousemove.stop>DEAD SPOT</span>
+      </p>
+    </div>
+    <div>
+      <p><strong>v-on:keyup.space.enter</strong></p>
+      <input type="text" v-on:keyup.space.enter="alertMe" />
+    </div>
+    <div>
+      <p><strong>v-model="YOUR_NAME"</strong> aka two way binding</p>
+      <input type="text" v-model="YOUR_NAME" />
+      <p>{{ YOUR_NAME }}</p>
+    </div>
   </div>
 
   <script>
     new Vue({
       el: '#app',
       data: {
+        YOUR_NAME: 'Samuele',
+        AGE: 35,
+        randomImage: 'https://source.unsplash.com/random',
         title: 'Hello World!',
         counter: 0,
+        secondCounter: 0,
         x: 0,
         y: 0
       },
       methods: {
+        random() {
+          return Math.random();
+        },
         changeTitle: function(event) {
           this.title = event.target.value;
         },
         increaseCounter(event, step = 1) {
           //this.counter++;
           this.counter += step;
+          //this.result = this.counter > 5 ? 'Greater 5' : 'Smaller 5';
         },
         increaseBy(step) {
           this.counter += step;
+          //this.result = this.counter > 5 ? 'Greater 5' : 'Smaller 5';
         },
         updateCoordinates(event) {
           this.x = event.clientX;
           this.y = event.clientY;
         },
-        dummy(event){
+        dummy(event) {
           event.stopPropagation();
         },
-        alertMe: function(){
-            alert('Alert!');
+        alertMe: function() {
+          alert('Alert!');
+        },
+        result(){
+          return this.counter > 5 ? 'Greater 5' : 'Smaller 5';
         }
       }
     });
