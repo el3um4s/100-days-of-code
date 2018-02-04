@@ -283,3 +283,9 @@ Momentaneamente ho creato una cartella su GitHub dove salvare gli esercizi fatti
 ### R1D29: February 2, 2018 (1h)
 
 `29th day` Andato avanti con il corso su VueJS 2. Pare essere uno strumento utile. Anche se devo capire bene come sia possibile utilizzare dati più complessi rispetto a un oggetto contenuto nella dichiarazione `new Vue()`.
+Fatto il primo esercizio del corso ([link](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/VueJS2/Section01/Exercise01)).
+
+### R1D30: February 3, 2018 (2h)
+
+`30th day` Ancora VueJS. Imparato come intercettare eventi del mouse e della tastiera. Inoltre visto l'utilizzo degli event modifiers.
+Fatto il secondo esercizio del corso ([link](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/VueJS2/Section01/Exercise02)).
