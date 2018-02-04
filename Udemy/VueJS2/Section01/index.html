@@ -14,8 +14,16 @@
     <input type="text" v-on:input="changeTitle" />
     <p>{{ title }}</p>
     <button v-on:click="increaseCounter">Click Me!</button>
-    <p>Counter: {{ counter }}</p>
-    <p v-on:mousemove="updateCoordinates">Coordinates: {{ x }} / {{ y }}</p>
+    <button v-on:click="increaseCounter($event, 2)">Increase by 2</button>
+    <button v-on:click="increaseBy(3)">Increase by 3</button>
+    <button v-on:click="counter +=4">Increase by JS</button>
+    <p>Counter: {{ counter }} is {{ counter > 10 ? 'greater than 10' : 'smaller than 10' }}</p>
+    <p v-on:mousemove="updateCoordinates">Coordinates: {{ x }} / {{ y }}
+      <span v-on:mousemove="dummy">DEAD SPOT</span>
+      <span>Live spot</span>
+      <span v-on:mousemove.stop>DEAD SPOT</span>
+    </p>
+    <input type="text" v-on:keyup.space.enter="alertMe" />
   </div>
 
   <script>
@@ -31,12 +39,22 @@
         changeTitle: function(event) {
           this.title = event.target.value;
         },
-        increaseCounter() {
-          this.counter++;
+        increaseCounter(event, step = 1) {
+          //this.counter++;
+          this.counter += step;
+        },
+        increaseBy(step) {
+          this.counter += step;
         },
         updateCoordinates(event) {
           this.x = event.clientX;
           this.y = event.clientY;
+        },
+        dummy(event){
+          event.stopPropagation();
+        },
+        alertMe: function(){
+            alert('Alert!');
         }
       }
     });
