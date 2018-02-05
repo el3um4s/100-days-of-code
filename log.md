@@ -289,3 +289,13 @@ Fatto il primo esercizio del corso ([link](https://github.com/el3um4s/100-days-o
 
 `30th day` Ancora VueJS. Imparato come intercettare eventi del mouse e della tastiera. Inoltre visto l'utilizzo degli event modifiers.
 Fatto il secondo esercizio del corso ([link](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/VueJS2/Section01/Exercise02)).
+
+###  R1D31:February 4, 2018(2h)
+
+`3th day` Ancora VueJS: mi pare di andare lentissimo. Oggi ho visto:
+
+  * two way binding
+  * computed
+  * watch
+
+Ho fatto il terzo esercizio del corso ([link](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/VueJS2/Section01/Exercise03)).

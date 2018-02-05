@@ -11,10 +11,13 @@
 
 <body>
   <div id="app">
+    <p><strong>@</strong> = v-on:</p>
+    <p><strong>:</strong> = v-bind:</p>
     <p>VueJS is pretty cool - {{ YOUR_NAME }} ({{ AGE }})</p>
     <p>{{ AGE * 3 }}</p>
     <!-- <p>{{ Math.random() }}</p> -->
     <p>{{ random() }}</p>
+    <p>{{ randomComputed }}</p>
     <div>
       <p><strong>v-bind</strong></p>
       <img v-bind:src="randomImage" style="width:100px;height:100px"></div>
@@ -32,7 +35,7 @@
       <button v-on:click="counter += 4">Increase by JS</button>
       <button v-on:click="secondCounter++">Increase Second</button>
       <p>Counter: {{ counter }} is {{ counter > 10 ? 'greater than 10' : 'smaller than 10' }}</p>
-      <p>Result: {{ result() }}</p>
+      <p>Result: {{ result() }} | {{ output }}</p>
       <p>Second Counter: {{ secondCounter }}</p>
     </div>
     <div>
@@ -55,6 +58,7 @@
   </div>
 
   <script>
+    var timeout;
     new Vue({
       el: '#app',
       data: {
@@ -66,6 +70,23 @@
         secondCounter: 0,
         x: 0,
         y: 0
+      },
+      computed: {
+        output(){
+          return this.counter > 5 ? 'Greater 5' : 'Smaller 5';
+        },
+        randomComputed() {
+          return Math.random();
+        }
+      },
+      watch: {
+        counter: function(newValue, oldValue){
+          let vm = this;
+          clearTimeout(timeout);
+          timeout = setTimeout(function () {
+            vm.counter = 0;
+          }, 2000);
+        }
       },
       methods: {
         random() {
