@@ -13,7 +13,23 @@ new Vue({
     color: 'red',
     color2: 'green',
     rectangle: 'rectangle',
-    largeBorder: false
+    largeBorder: false,
+    colorStyle: "blue",
+    lenghtBar: 10
+  },
+  computed: {
+    myStyle() {
+      return {
+        backgroundColor: this.colorStyle
+      }
+    },
+    progressBar(){
+      return {
+        width: this.lenghtBar + 'px',
+        height: '20px',
+        backgroundColor: this.colorStyle
+      }
+    }
   },
   methods: {
     startEffect() {
@@ -22,7 +38,7 @@ new Vue({
         this.applyEffectOnTimeout();
     },
     applyEffectOnTimeout(){
-      timeout = setTimeout(() => {
+       setTimeout(() => {
         //this.highlight = !this.highlight;
         //this.shrink = !this.shrink;
         //if (this.effectActive) this.applyEffectOnTimeout();
@@ -34,7 +50,12 @@ new Vue({
       }, 1000);
     },
     startProgress() {
-
+      setTimeout(()=>{
+          this.lenghtBar = this.lenghtBar + Math.floor(Math.random() * 20) + 5;;
+          if (this.lenghtBar <= 500 ) {
+            this.startProgress();
+          }
+      }, Math.floor(Math.random() * 500) + 200);
     }
   }
 });
