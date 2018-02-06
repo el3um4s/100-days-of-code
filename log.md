@@ -283,12 +283,12 @@ Momentaneamente ho creato una cartella su GitHub dove salvare gli esercizi fatti
 ### R1D29: February 2, 2018 (1h)
 
 `29th day` Andato avanti con il corso su VueJS 2. Pare essere uno strumento utile. Anche se devo capire bene come sia possibile utilizzare dati più complessi rispetto a un oggetto contenuto nella dichiarazione `new Vue()`.
-Fatto il primo esercizio del corso ([link](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/VueJS2/Section01/Exercise01)).
+Fatto il primo esercizio del corso ([link](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/VueJS2/Section02/Exercise01)).
 
 ### R1D30: February 3, 2018 (2h)
 
 `30th day` Ancora VueJS. Imparato come intercettare eventi del mouse e della tastiera. Inoltre visto l'utilizzo degli event modifiers.
-Fatto il secondo esercizio del corso ([link](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/VueJS2/Section01/Exercise02)).
+Fatto il secondo esercizio del corso ([link](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/VueJS2/Section02/Exercise02)).
 
 ###  R1D31:February 4, 2018(2h)
 
@@ -298,8 +298,12 @@ Fatto il secondo esercizio del corso ([link](https://github.com/el3um4s/100-days
   * computed
   * watch
 
-Ho fatto il terzo esercizio del corso ([link](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/VueJS2/Section01/Exercise03)).
+Ho fatto il terzo esercizio del corso ([link](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/VueJS2/Section02/Exercise03)).
 
 ### R1D32: February 5, 2018 (2h)
 
-`32th day` Oggi VueJS e la gestione del CSS. Ho cominciato il quarto esercizio del corso ([link](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/VueJS2/Section01/Exercise04)).
+`32th day` Oggi VueJS e la gestione del CSS. Ho cominciato il quarto esercizio del corso ([link](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/VueJS2/Section02/Exercise04)).
+
+### R1D33: February 6, 2018 (2h)
+
+`33th day` Finito l'esercizio 4 del corso su VueJS. Ancora abbastanza nebuloso l'utilizzo pratico delle tecniche che sto imparando. O, meglio, capisco come sia possibile modificare il DOM in maniera tutto sommato semplice tramite VueJS. Però non vedo come usare i `data` per applicazioni più complesse.
