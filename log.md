@@ -292,10 +292,14 @@ Fatto il secondo esercizio del corso ([link](https://github.com/el3um4s/100-days
 
 ###  R1D31:February 4, 2018(2h)
 
-`3th day` Ancora VueJS: mi pare di andare lentissimo. Oggi ho visto:
+`31th day` Ancora VueJS: mi pare di andare lentissimo. Oggi ho visto:
 
   * two way binding
   * computed
   * watch
 
 Ho fatto il terzo esercizio del corso ([link](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/VueJS2/Section01/Exercise03)).
+
+### R1D32: February 5, 2018 (2h)
+
+`32th day` Oggi VueJS e la gestione del CSS. Ho cominciato il quarto esercizio del corso ([link](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/VueJS2/Section01/Exercise04)).

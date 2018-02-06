@@ -7,14 +7,77 @@
   <title>VueJS</title>
   <link rel="stylesheet" href="" />
   <script src="vue.js"></script>
+
   <style>
+    .demo {
+      width: 100px;
+      height: 100px;
+      background-color: gray;
+      display: inline-block;
+      margin: 18px;
+      border-style: solid;
+      border-width: medium;
+      border-color: red;
+    }
+
+    .red {
+      background-color: red;
+    }
+
+    .green {
+      background-color: green;
+    }
+
+    .blue {
+      background-color: blue;
+    }
+
+    .border {
+      border-color: black;
+    }
   </style>
 </head>
 
 <body>
-
+  <div id="app">
+    <div class="demo" @click="attachRed = !attachRed; attachBorder = !attachBorder" :class="{red: attachRed, border: attachBorder}"></div>
+    <div class="demo" :class="divClasses"></div>
+    <div class="demo" :class="[color, {red: attachRed}]"></div>
+    <div class="demo" :style="{'background-color': 'yellow'}"></div>
+    <div class="demo" :style="{backgroundColor: 'yellow'}"></div>
+    <div class="demo" :style="{backgroundColor: color}"></div>
+    <div class="demo" :style="myStyle"></div>
+    <div class="demo" :style="[myStyle, {height: width + 'px'}]"></div>
+    <hr />
+    <input type="text" v-model="color" />
+    <input type="text" v-model="width" />
+  </div>
 
   <script>
+    new Vue({
+      el: '#app',
+      data: {
+        attachRed: false,
+        attachBorder: false,
+        color: 'green',
+        width: 100
+      },
+      computed: {
+        divClasses() {
+          return {
+            red: this.attachRed,
+            blue: !this.attachRed,
+            border: this.attachBorder
+          };
+        },
+        myStyle(){
+          return {
+            backgroundColor: this.color,
+            width: this.width + 'px'
+          };
+        }
+      }
+    });
   </script>
 </body>
 
