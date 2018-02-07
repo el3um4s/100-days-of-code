@@ -307,3 +307,9 @@ Ho fatto il terzo esercizio del corso ([link](https://github.com/el3um4s/100-day
 ### R1D33: February 6, 2018 (2h)
 
 `33th day` Finito l'esercizio 4 del corso su VueJS. Ancora abbastanza nebuloso l'utilizzo pratico delle tecniche che sto imparando. O, meglio, capisco come sia possibile modificare il DOM in maniera tutto sommato semplice tramite VueJS. Però non vedo come usare i `data` per applicazioni più complesse.
+
+### R1D34: February 7, 2018 (3h)
+
+`34th day` Ho finito la prima versione dell'esercizio **The Monster Slayer**. Devo ammettere che, effettivamente, VueJS semplifica molto il lavoro. Questa versione è abbastanza acerba, ha del codice ripetuto e una gestine abbastanza dozzinale dei dati del `player` e del `monster`. Ma, dai, è la mia prima vera app con VueJS: evviva!
+
+[Link alla mia soluzione](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/VueJS2/Section04/TheMonsterSlayer/MySolution)
