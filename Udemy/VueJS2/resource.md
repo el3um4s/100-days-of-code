@@ -1,6 +1,6 @@
 # Module Resources & Useful Links
 
-## Section 2, Lecture 32
+## Section 2
 
 ###  JSFiddle Links:
 
@@ -19,3 +19,16 @@
 * Official Docs - [Events](http://vuejs.org/guide/events.html)
 * Official Docs - [Computed Properties & Watchers](http://vuejs.org/guide/computed.html)
 * Official Docs - [Class and Style Binding](http://vuejs.org/guide/class-and-style.html)
+
+
+## Section 3
+
+### JSFiddle
+
+ * [Conditionals (v-if and v-show)](https://jsfiddle.net/smax/hoc719j5/)
+ * [Lists](https://jsfiddle.net/smax/o7uy2g0u/)
+
+### Useful Links
+
+ * Official Docs - [Conditionals](http://vuejs.org/guide/conditional.html)
+ * Official Docs - [Lists](http://vuejs.org/guide/list.html)
