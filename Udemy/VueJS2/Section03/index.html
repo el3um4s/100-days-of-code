@@ -10,8 +10,34 @@
 
 <body>
 	<div id="app">
-		<p>You can see me!</p>
-		<p>Do you also see me?</p>
+		<p v-if="show">You can see me! <span>Hello!</span></p>
+		<p v-else>Now you see me!</p>
+		<template v-if="show">
+			<h1>Heading</h1>
+			<p>Inside a template</p>
+		</template>
+		<p v-show="show">Do you also see me?</p>
+		<button @click="show = !show">Switch</button>
+	</div>
+	<div id="app2">
+		<ul>
+			<li v-for="ingredient in ingredients">{{ ingredient }}</li>
+		</ul>
+		<ul>
+			<li v-for="(ingredient, index) in ingredients" :key="ingredient">{{ ingredient }} ({{ index }})</li>
+		</ul>
+		<button @click="ingredients.push('spices')">Add News</button>
+		<hr />
+		<ul>
+			<li v-for="person in persons"><strong>{{ person.name }}</strong>
+					<div v-for="(value, key, index) in person">{{ key }}: {{ value }} ({{ index }})</div>
+			</li>
+		</ul>
+		<span v-for="n in 10">{{ n }}</span>
+		<template v-for="(ingredient, index) in ingredients">
+			<h3>{{ ingredient }}</h3>
+			<p>{{ index }}</p>
+		</template>
 	</div>
 
 	<script>
@@ -20,7 +46,18 @@
 			data: {
 				show: true
 			}
-		})
+		});
+
+		new Vue({
+			el: '#app2',
+			data: {
+				ingredients: ['meat', 'fruit', 'cookies'],
+				persons: [
+					{name: 'Max', age: 27, color: 'red'},
+					{name: 'Anna', age: 'unknown', color: 'blue'}
+				]
+			}
+		});
 	</script>
 
 </body>
