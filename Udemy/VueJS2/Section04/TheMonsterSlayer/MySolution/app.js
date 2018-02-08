@@ -36,11 +36,6 @@ new Vue({
     },
     logs: []
   },
-  /*watch: {
-    'player.salute': function(newVal, oldVal){
-      console.log(newVal, oldVal);
-    }
-  },*/
   methods: {
     attack() {
       let n = random(this.player.attacco.min, this.player.attacco.max);
