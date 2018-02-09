@@ -313,3 +313,7 @@ Ho fatto il terzo esercizio del corso ([link](https://github.com/el3um4s/100-day
 `34th day` Ho finito la prima versione dell'esercizio **The Monster Slayer**. Devo ammettere che, effettivamente, VueJS semplifica molto il lavoro. Questa versione è abbastanza acerba, ha del codice ripetuto e una gestione abbastanza dozzinale dei dati del `player` e del `monster`. Ma, dai, è la mia prima vera app con VueJS: evviva!
 
 [Link alla mia soluzione](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/VueJS2/Section04/TheMonsterSlayer/MySolution)
+
+### R1D35: February 8, 2018 (2h)
+
+`35th day` Oggi ho seguito la correzione dell'esercizio **The Monster Slayer**. Non è molto diversa dalla mia, solo un po' più elegante e sintetica. Sono comunque soddisfatto del lavoro fatto.
