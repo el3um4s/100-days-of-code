@@ -317,3 +317,11 @@ Ho fatto il terzo esercizio del corso ([link](https://github.com/el3um4s/100-day
 ### R1D35: February 8, 2018 (2h)
 
 `35th day` Oggi ho seguito la correzione dell'esercizio **The Monster Slayer**. Non è molto diversa dalla mia, solo un po' più elegante e sintetica. Sono comunque soddisfatto del lavoro fatto.
+
+### R1D36: February 9, 2018 (1h)
+
+`36th day` Ho cominciato a vedere i video della lezione successiva. Non ho scritto nemmeno una riga di codice ma ho imparato (spero) un po' di cose in più sul funzionamento di VueJS.
+
+### R1D37: February 10, 2018 (2h)
+
+`37th day` Fatto la sezione 7 del **corso di VueJS**. Inizio a capire l'utilizzo dei _components_: mi piace la possibilità di ridurre tutto ai minimi termini per avere tanti pacchettini di codice da montare assieme. Non vedo l'ora di cominciare la sezione 8, _communicating betweem components_.
