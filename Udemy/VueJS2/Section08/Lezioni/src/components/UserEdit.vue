@@ -6,6 +6,7 @@
         <button @click="editAge">Edit Age (30)</button>
         <button @click="ageFn()">Edit Age (50)</button>
         <button @click="changeAge">Edit Age (60)</button>
+        <button @click="changeAge70">Edit Age (70)</button>
     </div>
 </template>
 
@@ -25,6 +26,10 @@ import { eventBus } from '../main';
       changeAge() {
         this.userAge = 60;
         eventBus.$emit('ageWasChanged', this.userAge);
+      },
+      changeAge70() {
+        this.userAge = 70;
+        eventBus.changeAgeBus(this.userAge);
       }
     }
   }
