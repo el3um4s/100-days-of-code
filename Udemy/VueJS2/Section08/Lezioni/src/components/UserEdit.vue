@@ -5,10 +5,13 @@
         <p>User Age: {{ userAge }}</p>
         <button @click="editAge">Edit Age (30)</button>
         <button @click="ageFn()">Edit Age (50)</button>
+        <button @click="changeAge">Edit Age (60)</button>
     </div>
 </template>
 
 <script>
+import { eventBus } from '../main';
+
   export default {
     props: {
       userAge: Number,
@@ -18,6 +21,10 @@
       editAge(){
         this.userAge = 30;
         this.$emit("ageWasEdited", this.userAge);
+      },
+      changeAge() {
+        this.userAge = 60;
+        eventBus.$emit('ageWasChanged', this.userAge);
       }
     }
   }
