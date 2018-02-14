@@ -325,3 +325,12 @@ Ho fatto il terzo esercizio del corso ([link](https://github.com/el3um4s/100-day
 ### R1D37: February 10, 2018 (2h)
 
 `37th day` Fatto la sezione 7 del **corso di VueJS**. Inizio a capire l'utilizzo dei _components_: mi piace la possibilità di ridurre tutto ai minimi termini per avere tanti pacchettini di codice da montare assieme. Non vedo l'ora di cominciare la sezione 8, _communicating betweem components_.
+
+### R1D38: February 11, 2018 (1h)
+
+`38th day` Cominciata la sezione dedicata a come passare i dati da un compontente all'altro. Tutto inizia ad avere un senso, ora. Per lo meno comincio a capire come può essere strutturata un'applicazione nel mondo reale.
+
+### R1D39: February 13, 2018 (1h)
+
+`39th day` Ieri ho perso il giorno: dopo una giornata infinita al lavoro non sono riusciuto ad avere le forze per continuare lo studio. E, temo, sarà lo stesso anche per domenica. Comunque, ho finito la parte teorica e adesso posso cominciare ad affrontare il prossimo esercizio. Che comincierò domani.
+
