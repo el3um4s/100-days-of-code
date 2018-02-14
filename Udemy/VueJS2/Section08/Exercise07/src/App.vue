@@ -16,7 +16,7 @@
     import Footer from './components/Shared/Footer.vue';
     import Servers from './components/Server/Servers.vue';
     import ServerDetails from './components/Server/ServerDetails.vue';
-
+    
     export default {
         components: {
             appHeader: Header,
