@@ -334,3 +334,6 @@ Ho fatto il terzo esercizio del corso ([link](https://github.com/el3um4s/100-day
 
 `39th day` Ieri ho perso il giorno: dopo una giornata infinita al lavoro non sono riusciuto ad avere le forze per continuare lo studio. E, temo, sarà lo stesso anche per domenica. Comunque, ho finito la parte teorica e adesso posso cominciare ad affrontare il prossimo esercizio. Che comincierò domani.
 
+### R1D40: February 14, 2018 (2h)
+
+`40th day` Oggi ho finito l'esercizio della sezione 8: una semplice app per controllare lo stato di una serie di server. Con controllare intendo semplicemente verificare se un server funziona bene o ha dei problemi ed eventualmente resettarlo. Al di là dell'app in sé, penso di aver cominciato a capire il funzionamento complessivo. Certo, per progetti semplici quello che ho imparato fino ad adesso è sufficiente. Ma per quello che ho in testa mi servono ancora altre conoscenze. E molta, molta più esperienza.
