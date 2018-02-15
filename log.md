@@ -324,7 +324,7 @@ Ho fatto il terzo esercizio del corso ([link](https://github.com/el3um4s/100-day
 
 ### R1D37: February 10, 2018 (2h)
 
-`37th day` Fatto la sezione 7 del **corso di VueJS**. Inizio a capire l'utilizzo dei _components_: mi piace la possibilità di ridurre tutto ai minimi termini per avere tanti pacchettini di codice da montare assieme. Non vedo l'ora di cominciare la sezione 8, _communicating betweem components_.
+`37th day` Fatto la sezione 7 del **corso di VueJS**. Inizio a capire l'utilizzo dei _components_: mi piace la possibilità di ridurre tutto ai minimi termini per avere tanti pacchettini di codice da montare assieme. Non vedo l'ora di cominciare la sezione 8, _communicating between components_.
 
 ### R1D38: February 11, 2018 (1h)
 
