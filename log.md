@@ -332,7 +332,7 @@ Ho fatto il terzo esercizio del corso ([link](https://github.com/el3um4s/100-day
 
 ### R1D39: February 13, 2018 (1h)
 
-`39th day` Ieri ho perso il giorno: dopo una giornata infinita al lavoro non sono riusciuto ad avere le forze per continuare lo studio. E, temo, sarà lo stesso anche per domenica. Comunque, ho finito la parte teorica e adesso posso cominciare ad affrontare il prossimo esercizio. Che comincierò domani.
+`39th day` Ieri ho perso il giorno: dopo una giornata infinita al lavoro non sono riusciuto ad avere le forze per continuare lo studio. E, temo, sarà lo stesso anche per domenica. Comunque, ho finito la parte teorica e adesso posso cominciare ad affrontare il prossimo esercizio. Che comincerò domani.
 
 ### R1D40: February 14, 2018 (2h)
 
