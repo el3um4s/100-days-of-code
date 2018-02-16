@@ -1,0 +1,35 @@
+.fontColor-Dark {
+  color: #31869c;
+}
+
+.fontColor-Light {
+  color: #f2f2f2;
+}
+
+.backgroundColor-Dark {
+  background-color: #31869c;
+}
+
+.backgroundColor-Light {
+  background-color: #f2f2f2;
+}
+
+.borderColor-Dark{
+  border: 1px solid #31869c;
+}
+
+.text-Centered {
+  text-align: center;
+}
+
+.fontWeight-bold {
+  font-weight: bold;
+}
+
+.padding-Little {
+  padding: 8px;
+}
+
+.margin-Little {
+  margin: 8px;
+}

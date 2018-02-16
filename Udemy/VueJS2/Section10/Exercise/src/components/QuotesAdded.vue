@@ -1,9 +1,7 @@
 <template>
-  <div class="row">
-    <div class="col-xs-12">
+  <div>
       <h3>Quotes Added</h3>
       <appProgressBar></appProgressBar>
-    </div>
   </div>
 </template>
 
