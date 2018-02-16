@@ -225,21 +225,21 @@ Link:
 
 ### R1D21: January 25, 2018 (2h)
 
-`21th day` Oggi ho fatto pochino: sono andato avanti con i video del corso Udemy su Electron. Ma prima ho finito l'esercizio sull'app **Todos**. Manca tutta la parte grafica: per il momento mi sono concentrato sul capire i concetti generali.
+`21st day` Oggi ho fatto pochino: sono andato avanti con i video del corso Udemy su Electron. Ma prima ho finito l'esercizio sull'app **Todos**. Manca tutta la parte grafica: per il momento mi sono concentrato sul capire i concetti generali.
 
 Link:
   * [GitHub - electron-todos](https://github.com/el3um4s/electron-todos)
 
 ### R1D22: January 26, 2018 (1h)
 
-`22th day` Procedo con il corso Udemy su Electron. La parte di oggi riguarda come aggiungere l'icona sulla barra delle notifiche di Windows e osX. Peccato che ci siano un po' di problemi con Linux/Ubuntu. Per il momento ho usato un workaround tramite [electron-traywindow-positione](https://www.npmjs.com/package/electron-traywindow-positioner). Che poi è stata una fortuna perché è un modulo npm aggiornato solamente un paio di giorni fa.
+`22nd day` Procedo con il corso Udemy su Electron. La parte di oggi riguarda come aggiungere l'icona sulla barra delle notifiche di Windows e osX. Peccato che ci siano un po' di problemi con Linux/Ubuntu. Per il momento ho usato un workaround tramite [electron-traywindow-positione](https://www.npmjs.com/package/electron-traywindow-positioner). Che poi è stata una fortuna perché è un modulo npm aggiornato solamente un paio di giorni fa.
 
 Link:
   * [GitHub - electron-tasky](https://github.com/el3um4s/electron-tasky)
 
 ### R1D23: January 27, 2018 (1h)
 
-`23th day` Ancora avanti con il corso Udemy su Electron. Sto scoprendo che Ubuntu presenta molti problemi con la gestione dell'icona sulla traybar. Peccato.
+`23rd day` Ancora avanti con il corso Udemy su Electron. Sto scoprendo che Ubuntu presenta molti problemi con la gestione dell'icona sulla traybar. Peccato.
 
 
 ### R1D24: January 28, 2018 (1h)
@@ -292,7 +292,7 @@ Fatto il secondo esercizio del corso ([link](https://github.com/el3um4s/100-days
 
 ###  R1D31:February 4, 2018(2h)
 
-`31th day` Ancora VueJS: mi pare di andare lentissimo. Oggi ho visto:
+`31st day` Ancora VueJS: mi pare di andare lentissimo. Oggi ho visto:
 
   * two way binding
   * computed
@@ -302,11 +302,11 @@ Ho fatto il terzo esercizio del corso ([link](https://github.com/el3um4s/100-day
 
 ### R1D32: February 5, 2018 (2h)
 
-`32th day` Oggi VueJS e la gestione del CSS. Ho cominciato il quarto esercizio del corso ([link](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/VueJS2/Section02/Exercise04)).
+`32nd day` Oggi VueJS e la gestione del CSS. Ho cominciato il quarto esercizio del corso ([link](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/VueJS2/Section02/Exercise04)).
 
 ### R1D33: February 6, 2018 (2h)
 
-`33th day` Finito l'esercizio 4 del corso su VueJS. Ancora abbastanza nebuloso l'utilizzo pratico delle tecniche che sto imparando. O, meglio, capisco come sia possibile modificare il DOM in maniera tutto sommato semplice tramite VueJS. Però non vedo come usare i `data` per applicazioni più complesse.
+`33rd day` Finito l'esercizio 4 del corso su VueJS. Ancora abbastanza nebuloso l'utilizzo pratico delle tecniche che sto imparando. O, meglio, capisco come sia possibile modificare il DOM in maniera tutto sommato semplice tramite VueJS. Però non vedo come usare i `data` per applicazioni più complesse.
 
 ### R1D34: February 7, 2018 (3h)
 
@@ -340,4 +340,4 @@ Ho fatto il terzo esercizio del corso ([link](https://github.com/el3um4s/100-day
 
 ### R1D41: February 15, 2018 (1h)
 
-`41th day` Finito la sezione 9, e costruita una semplice app con componenti dinamici e slot. Gli slot in VueJS sono molto interessanti: permettono di creare dei widget riutilizzabili in più parti di un'applicazione. Ho poi impostato il progetto successivo, **Wonderful Quotes**.
+`41st day` Finito la sezione 9, e costruita una semplice app con componenti dinamici e slot. Gli slot in VueJS sono molto interessanti: permettono di creare dei widget riutilizzabili in più parti di un'applicazione. Ho poi impostato il progetto successivo, **Wonderful Quotes**.
