@@ -9,7 +9,7 @@
       rows="5"
       class="padding-Little fontColor-Dark borderColor-Dark"></textarea>
     <div @click="addQuote" class="btnAddQuote padding-Little text-Centered backgroundColor-Dark fontColor-Light">Add Quote</div>
-    <div class="error text-Centered" v-if="logError">
+    <div class="error text-Centered transition-Removing" v-if="logError">
       Too many Quotes! Delete some before adding ones!
     </div>
   </div>
@@ -57,6 +57,17 @@ textarea {
   width: 100%;
   max-width: 550px;
   cursor: pointer;
+  transition: background 0.8s;
+}
+
+.btnAddQuote:hover {
+  background: #3ca4bf radial-gradient(circle, transparent 1%, #3ca4bf 1%) center/15000%;
+}
+
+.btnAddQuote:active {
+  background-color: #31869c;
+  background-size: 100%;
+  transition: background 0s;
 }
 
 .error {
@@ -65,4 +76,22 @@ textarea {
   border: 1px solid #700000;
   color: #700000;
 }
+
+.transition-Removing {
+    -webkit-animation: fadeOut 3s;
+    animation: fadeOut 3s;
+}
+
+@-webkit-keyframes fadeOut {
+  0% { opacity: 0 }
+  50% {opacity: 1 }
+  100% { opacity: 0 }
+}
+
+@keyframes fadeOut {
+  0% { opacity: 0 }
+  50% {opacity: 1 }
+  100% { opacity: 0 }
+}
+
 </style>

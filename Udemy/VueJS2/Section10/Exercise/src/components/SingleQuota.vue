@@ -1,5 +1,5 @@
 <template>
-    <div @click="deleteQuote(id)" class="singleQuota fontColor-Dark backgroundColor-Light padding-Little text-Centered borderColor-Dark">
+    <div @click="deleteQuote(id)" class="singleQuota fontColor-Dark backgroundColor-Light padding-Little text-Centered borderColor-Dark transition-Fade">
       <slot name="quota"></slot>
     </div>
 </template>

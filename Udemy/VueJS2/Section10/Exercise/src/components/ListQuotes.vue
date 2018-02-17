@@ -1,7 +1,7 @@
 <template>
 <div class="listQuotes">
   <appSingleQuota v-for="(quota, key) in quotes" :id="key">
-    <span slot="quota">{{ key }} - {{ quota.quota }}</span></appSingleQuota>
+    <span slot="quota">{{ quota.quota }}</span></appSingleQuota>
 </div>
 </template>
 

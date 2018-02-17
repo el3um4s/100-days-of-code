@@ -34,5 +34,6 @@ export default {
 
 .progressBar-progress {
   height: 100%;
+  transition: width 500ms;
 }
 </style>

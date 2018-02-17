@@ -341,3 +341,11 @@ Ho fatto il terzo esercizio del corso ([link](https://github.com/el3um4s/100-day
 ### R1D41: February 15, 2018 (1h)
 
 `41st day` Finito la sezione 9, e costruita una semplice app con componenti dinamici e slot. Gli slot in VueJS sono molto interessanti: permettono di creare dei widget riutilizzabili in più parti di un'applicazione. Ho poi impostato il progetto successivo, **Wonderful Quotes**.
+
+### R1D42: February 16, 2018 (4h)
+
+`42nd day` Oggi ho fatto molto. Ho deciso di partire sostanzialmente da zero con il progretto **Wonderful Quotes**, e di non utilizzare _bootstrap_. Un po' perché, in onestà, non mi sento a mio agio con questo strumento. E, sopratutto, perché da quando ho scoperto **css grid** ho deciso di usarlo il più possibile. Comunque, ho costruito la struttura della pagina, ho creato i componenti e sistemato le funzionni necessarie per aggiungere ed eliminare le citazioni. Mancano ancora da sistemare un paio di cose:
+  1. rendere un po' più bellina l'animazione della progress barra
+  2. eventualmente impostare un effetto di dissolvenza per il messaggio di errore
+  3. capire se ha senso usare le `props` in alcuni componenti piuttosto che importarte direttamente i dati
+L'ultimo punto è più una domanda, e devo studiare ancora un pochetto perché evidentemnte mi sfugge qual è il metodo corretto per usare le varie opzioni di VueJS.
