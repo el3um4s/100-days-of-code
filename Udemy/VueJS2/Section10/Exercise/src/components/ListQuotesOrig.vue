@@ -1,16 +1,21 @@
 <template>
 <div class="listQuotes">
-  <appSingleQuota v-for="(quota, key) in listQuotes" :id="key">
+  <appSingleQuota v-for="(quota, key) in quotes" :id="key">
     <span slot="quota">{{ quota.quota }}</span></appSingleQuota>
 </div>
 </template>
 
 <script>
 import SingleQuota from './SingleQuota.vue';
+import {
+  listQuotes
+} from '../main.js';
 
 export default {
-  props: {
-    listQuotes: Array
+  data() {
+    return {
+      quotes: listQuotes.$data.arrQuotes
+    }
   },
   components: {
     appSingleQuota: SingleQuota

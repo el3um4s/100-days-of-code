@@ -1,33 +1,44 @@
 <template>
 <div class="newQuote">
-  <div class="fontColor-Dark fontWeight-bold">
-    <slot name="label"></slot>
-  </div>
+  <appLabel>New Quote</appLabel>
   <div class="padding-Little">
     <textarea
       v-model="tempQuote"
       rows="5"
       class="padding-Little fontColor-Dark borderColor-Dark"></textarea>
     <div @click="addQuote" class="btnAddQuote padding-Little text-Centered backgroundColor-Dark fontColor-Light">Add Quote</div>
-    <div class="error text-Centered transition-Removing" v-if="logError">
-      Too many Quotes! Delete some before adding ones!
-    </div>
+    <appError v-if="logError"></appError>
+    <appErrorNoQuote v-if="logNoQuote"></appErrorNoQuote>
   </div>
 </div>
 </template>
 
 <script>
-import { listQuotes } from '../main.js'
+import { listQuotes } from '../main.js';
+import Label from './Label.vue';
+import Error from './Error.vue';
+import ErrorNoQuote from './ErrorNoQuote.vue';
 
 export default {
   data(){
     return {
       tempQuote: "",
-      logError: false
+      logError: false,
+      logNoQuote: false
     }
+  },
+  components:{
+    appLabel: Label,
+    appError: Error,
+    appErrorNoQuote: ErrorNoQuote
   },
   methods: {
     addQuote(){
+      if (this.tempQuote.length === 0) {
+        this.logNoQuote = true;
+        setTimeout(() => { this.logNoQuote = false; }, 2000);
+        return;
+      };
       if (listQuotes.$data.arrQuotes.length <= listQuotes.$data.maxQuotes-1 ) {
         listQuotes.addQuote({quota: this.tempQuote});
         this.tempQuote = "";
@@ -68,30 +79,6 @@ textarea {
   background-color: #31869c;
   background-size: 100%;
   transition: background 0s;
-}
-
-.error {
-  margin: 8px;
-  padding: 8px;
-  border: 1px solid #700000;
-  color: #700000;
-}
-
-.transition-Removing {
-    -webkit-animation: fadeOut 3s;
-    animation: fadeOut 3s;
-}
-
-@-webkit-keyframes fadeOut {
-  0% { opacity: 0 }
-  50% {opacity: 1 }
-  100% { opacity: 0 }
-}
-
-@keyframes fadeOut {
-  0% { opacity: 0 }
-  50% {opacity: 1 }
-  100% { opacity: 0 }
 }
 
 </style>

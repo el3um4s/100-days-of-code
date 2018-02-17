@@ -1,22 +1,26 @@
 <template>
 <div class="quotesAdded">
-  <div class="fontColor-Dark fontWeight-bold">
-    <slot name="label"></slot>
-  </div>
+  <appLabel>Quotes Added</appLabel>
   <div class="progressBar borderColor-Dark backgroundColor-Light">
     <div
       class="progressBar-progress backgroundColor-Dark fontColor-Light text-Centered"
-      :style="{ width: quotesAdded + '%'}">
-      <slot name="quotesAdded"></slot>
+      :style="{ width: (quotesAdded*10) + '%'}">
+      {{ quotesAdded }}/{{ maxQuotes }}
     </div>
   </div>
 </div>
 </template>
 
 <script>
+import Label from './Label.vue';
+
 export default {
+    components: {
+      appLabel: Label
+    },
     props: {
-      quotesAdded: Number
+      quotesAdded: Number,
+      maxQuotes: Number
     }
 }
 </script>

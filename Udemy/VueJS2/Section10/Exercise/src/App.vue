@@ -1,18 +1,10 @@
 <template>
   <div class="container">
-    <appTitle>{{ label.title }}</appTitle>
-
-    <appQuotesAdded :quotesAdded="quotes.length*10">
-        <span slot="label">{{ label.quotesAdded }}</span>
-        <span slot="quotesAdded">{{ quotes.length }}/10</span>
-    </appQuotesAdded>
-
-    <appNewQuote>
-      <span slot="label">{{ label.newQuote }}</span>
-    </appNewQuote>
-
-    <appListQuotes></appListQuotes>
-    <appInfo>{{ label.info }}</appInfo>
+    <appTitle>Wonderful Quotes</appTitle>
+    <appQuotesAdded :quotesAdded="quotes.length" :maxQuotes="maxQuotes"></appQuotesAdded>
+    <appNewQuote></appNewQuote>
+    <appListQuotes :listQuotes="quotes"></appListQuotes>
+    <appInfo>Info: click on a quote to delete it</appInfo>
 
   </div>
 </template>
@@ -28,13 +20,8 @@
   export default {
       data(){
         return {
-          label: {
-            title: 'Wonderful Quotes',
-            quotesAdded: 'Quotes Added',
-            newQuote: 'New Quote',
-            info: 'Info: click on a quote to delete it'
-          },
-          quotes: listQuotes.$data.arrQuotes
+          quotes: listQuotes.$data.arrQuotes,
+          maxQuotes: listQuotes.$data.maxQuotes
         }
       },
       components: {
