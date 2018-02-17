@@ -5,7 +5,6 @@
     <appNewQuote></appNewQuote>
     <appListQuotes :listQuotes="quotes"></appListQuotes>
     <appInfo>Info: click on a quote to delete it</appInfo>
-
   </div>
 </template>
 
