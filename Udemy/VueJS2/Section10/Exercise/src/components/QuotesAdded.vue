@@ -4,7 +4,9 @@
     <slot name="label"></slot>
   </div>
   <div class="progressBar borderColor-Dark backgroundColor-Light">
-    <div class="progressBar-progress backgroundColor-Dark fontColor-Light text-Centered">
+    <div
+      class="progressBar-progress backgroundColor-Dark fontColor-Light text-Centered"
+      :style="{ width: quotesAdded + '%'}">
       <slot name="quotesAdded"></slot>
     </div>
   </div>
@@ -12,7 +14,11 @@
 </template>
 
 <script>
-export default {}
+export default {
+    props: {
+      quotesAdded: Number
+    }
+}
 </script>
 
 <style>
@@ -28,6 +34,5 @@ export default {}
 
 .progressBar-progress {
   height: 100%;
-  width: 20%;
 }
 </style>

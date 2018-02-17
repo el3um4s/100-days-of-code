@@ -3,28 +3,16 @@ import App from './App.vue'
 
 export const listQuotes = new Vue({
   data: {
-    arrQuotes: [{
-      quota: 'Un due tre stella'
-    },
-    {
-      quota: 'Tigre contro tigre'
-    },
-    {
-      quota: 'contro tigre'
-    },
-    {
-      quota: 'Un due'
-    },
-    {
-      quota: 't'
-    },
-    {
-      quota: 'contro tigre'
-    }]
+    maxQuotes: 10,
+    arrQuotes: []
   },
   methods: {
-    changeAgeBus(age){
-      this.$emit('ageWasChanged', age);
+    addQuote(quote){
+      // this.$emit('ageWasChanged', quote);
+      this.arrQuotes.push(quote);
+    },
+    deleteQuote(id){
+      this.arrQuotes.splice(id, 1);
     }
   }
 });

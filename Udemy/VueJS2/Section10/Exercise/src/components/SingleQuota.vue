@@ -1,19 +1,26 @@
 <template>
-  <div>
-    <div class="a">
+    <div @click="deleteQuote(id)" class="singleQuota fontColor-Dark backgroundColor-Light padding-Little text-Centered borderColor-Dark">
       <slot name="quota"></slot>
     </div>
-  </div>
 </template>
 
 <script>
+import { listQuotes } from '../main.js';
+
 export default {
+  props: {
+    id: Number
+  },
+  methods: {
+    deleteQuote(id){
+      listQuotes.deleteQuote(id);
+    }
+  }
 }
 </script>
 
 <style scoped>
-.a {
+.singleQuota {
   width: auto;
-  background-color: yellow;
 }
 </style>
