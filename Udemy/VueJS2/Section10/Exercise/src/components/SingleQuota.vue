@@ -23,4 +23,9 @@ export default {
 .singleQuota {
   width: auto;
 }
+
+.singleQuota:hover {
+  cursor: pointer;
+  background-color: #ffbebe;
+}
 </style>
