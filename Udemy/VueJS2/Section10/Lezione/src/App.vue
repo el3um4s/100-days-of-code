@@ -1,7 +1,12 @@
 <template>
     <div class="container">
-      <appNewQuote></appNewQuote>
+      <appNewQuote @quoteAdded="newQuote"></appNewQuote>
       <appQuoteGrid :quotes="quotes"></appQuoteGrid>
+      <div class="col-sm-12">
+        <div class="alert alert-info">
+          Info: Click on a Quote to delete it! 
+        </div>
+      </div>
     </div>
 </template>
 
@@ -16,6 +21,11 @@
               'Just a Quote to see something'
             ],
             maxQuotes: 10
+          }
+        },
+        methods: {
+          newQuote(quote) {
+            this.quotes.push(quote);
           }
         },
         components: {
