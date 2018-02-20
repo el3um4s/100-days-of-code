@@ -350,10 +350,14 @@ Ho fatto il terzo esercizio del corso ([link](https://github.com/el3um4s/100-day
   3. capire se ha senso usare le `props` in alcuni componenti piuttosto che importarte direttamente i dati
 L'ultimo punto è più una domanda, e devo studiare ancora un pochetto perché evidentemnte mi sfugge qual è il metodo corretto per usare le varie opzioni di VueJS.
 
-### R1D43: February 23, 2018 (2h)
+### R1D43: February 17, 2018 (2h)
 
 `43rd day` Finito l'app del progetto **Wonderful Quotes**: sono soddisfatto perché funziona come deve. Dei tre punti di ieri, li ho sistemati tutti e tre. Inoltre ho aggiunto un messaggio di errore se si prova a inserire una citazione vuota.
 
 Ho notato una cosa, mentre lavoravo sull'effetto di dissolvenza: VueJS ha un suo sistema per gestire l'inserimento (e l'eliminazione) di nuovi elementi in maniera elegante. Per il momento però mi sono limitato a un po' di CSS.
 
-[Link alla mia soluzione](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/VueJS2/Section10/Exercise) 
+[Link alla mia soluzione](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/VueJS2/Section10/Exercise)
+
+### R1D44: February 19, 2018 (1h)
+
+`44th day` Ho modificato leggermente l'app **Wonderful Quotes**: adesso quando il mouse passa sopra una delle citazioni la citazione stessa diventa rossiccia. E il mouse ha la forma del puntantore e non della freccetta classica. Ho anche finito la correzione dell'esercizio, mi pare di aver fatto quasi tutto correttamente.
