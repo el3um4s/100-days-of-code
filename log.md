@@ -364,4 +364,22 @@ Ho notato una cosa, mentre lavoravo sull'effetto di dissolvenza: VueJS ha un suo
 
 ### R1D45: February 20, 2018 (2h)
 
-`45th day` 
+`45th day` Ho fatto (e finito) l'esercizio **Form Sign Up**. Si tratta di una pagina web per registrarsi a un servizio. Lo scopo era imparare a maneggiare i controlli delle form e creare degli custom input. E a proposito di custom input, ho perso un sacco di tempo per far funzionare il componente _FullName.vue_: scrivevo
+
+```
+props: { fullName: {type: Object} }
+props: ['fullName']
+props: { fullName: Object}
+```
+e in ogni tentativo ho avuto messaggi di errore. Perché? Perché quando va usato in questa forma:
+
+```
+props: {
+    value: { type: Object }
+  }
+props: ['value']
+props: { value: Object }
+```
+
+ Cioè, da quello che ho capito, quando si crea un custom input si passa il valore tramite la keyword **value**.
+[Link alla mia soluzione](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/VueJS2/Section11/Exercise)
