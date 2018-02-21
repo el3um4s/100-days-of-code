@@ -361,3 +361,7 @@ Ho notato una cosa, mentre lavoravo sull'effetto di dissolvenza: VueJS ha un suo
 ### R1D44: February 19, 2018 (1h)
 
 `44th day` Ho modificato leggermente l'app **Wonderful Quotes**: adesso quando il mouse passa sopra una delle citazioni la citazione stessa diventa rossiccia. E il mouse ha la forma del puntantore e non della freccetta classica. Ho anche finito la correzione dell'esercizio, mi pare di aver fatto quasi tutto correttamente.
+
+### R1D45: February 20, 2018 (2h)
+
+`45th day` 
