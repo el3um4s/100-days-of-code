@@ -15,7 +15,7 @@
                     </div>
                     <!--
                     v-model funzion così:
-                    :value"userData.email"
+                    :value="userData.email"
                     @input="userData.email = $event.target.value" -->
                     <div class="form-group">
                         <label for="password">Password</label>
