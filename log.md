@@ -383,3 +383,7 @@ props: { value: Object }
 
  Cioè, da quello che ho capito, quando si crea un custom input si passa il valore tramite la keyword **value**.
 [Link alla mia soluzione](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/VueJS2/Section11/Exercise)
+
+### R1D46: February 21, 2018 (2h)
+
+`46th day` Seguito la correzione dell'esercizio **Form Sign Up** e fatto la sezione 12 sulle Directives.
