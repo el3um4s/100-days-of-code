@@ -11,6 +11,10 @@ Vue.mixin({
     }
 });
 
+Vue.filter('countsLength', (value) => {
+    return `${value} (${value.length})`;
+});
+
 new Vue({
   el: '#app',
   render: h => h(App)
