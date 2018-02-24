@@ -387,3 +387,7 @@ props: { value: Object }
 ### R1D46: February 21, 2018 (2h)
 
 `46th day` Seguito la correzione dell'esercizio **Form Sign Up** e fatto la sezione 12 sulle Directives.
+
+### R1D46: February 23, 2018 (2h)
+
+`47th day` Questi giorni sono complicati, ieri non sono riuscito a fare nulla: stavo troppo male. Per fortuna le regole dei #100DaysOfCode permettono di saltare un giorno (ma non di saltare più giorni consecutivi). Oggi ho completato la sezione 13, **Filters e Mixins**. Non ho capito bene il perché di questi nomi ma non mi preoccupa troppo. Un filter serve per modificare come appare a schermo un dato, senza modificare il dato stesso. Un Mixin, invece, serve per scrivere del codice riutilizzabile in più compomenti diversi. Penso siano entrambi degli strumenti utili.
