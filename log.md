@@ -8,6 +8,7 @@
 1. R1D16 - Udemy - [**Video Info**](https://github.com/el3um4s/electron-videoinfo/blob/master/README.md)
 1. R1D25 - Udemy - [**Tasky**](https://github.com/el3um4s/electron-tasky) (Only the course's code)
 1. R1D27 - Udemy - [**Convert**](https://github.com/el3um4s/electron-convert) (Only the course's code)
+1. R1D47 - GitHub - [VueJS - **Random Quote Machine**](https://el3um4s.github.io/FCC-Random-Quote-Machine/)
 
 ### Certifications
 
@@ -391,3 +392,9 @@ props: { value: Object }
 ### R1D46: February 23, 2018 (2h)
 
 `47th day` Questi giorni sono complicati, ieri non sono riuscito a fare nulla: stavo troppo male. Per fortuna le regole dei #100DaysOfCode permettono di saltare un giorno (ma non di saltare più giorni consecutivi). Oggi ho completato la sezione 13, **Filters e Mixins**. Non ho capito bene il perché di questi nomi ma non mi preoccupa troppo. Un filter serve per modificare come appare a schermo un dato, senza modificare il dato stesso. Un Mixin, invece, serve per scrivere del codice riutilizzabile in più compomenti diversi. Penso siano entrambi degli strumenti utili.
+
+### R1D47: February 24, 2018 (2h
+
+`48th day` Finalmente sono riuscito a lavorare un pochino senza troppi impicci. Non avevo voglia di studiare e di affrontare un altro capitolo del corso, quindi ho deciso di provare a mettere in pratica quanto imparato finora. Ho rifatto uno dei progetti di FreeCodeCamp, **Random Quote Machine**. È un'app molto semplice: mostra una citazione (più o meno famosa) e cliccando sul pulsante _New Quote_ ne mostra una nuova scelta casualmente da un archivio. È la seconda volta che rifaccio questo esercizio, ma è la prima votla che sono davvero soddisfatto del risultato ottenuto. VueJS è una soluzione facile, veloce e sopratutto comoda.
+
+[Link alla Random Quote Machine](https://el3um4s.github.io/FCC-Random-Quote-Machine/)
