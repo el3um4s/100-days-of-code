@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>CANVAS</title>
+</head>
+
+<body>
+  <canvas id="c" width="500px" height="500px"></canvas>
+</body>
+
+<script>
+  const c = document.querySelector("#c");
+  const ctx = c.getContext("2d");
+
+  ctx.font = "bold 36pt Arial";
+  ctx.textAlign = 'center';
+
+  ctx.fillStyle = "white";
+  ctx.fillText('CANVAS MEMES!', c.width/2, 40);
+
+  ctx.strokeStyle = "black";
+  ctx.lineWidth = 3;
+  ctx.strokeText('CANVAS MEMES!', c.width/2, 40);
+</script>
+
+<style>
+  body {
+    background-color: #d29e38;
+  }
+</style>
+
+</html>

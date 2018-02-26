@@ -28,7 +28,26 @@
     // ctx.fill();
     ctx.stroke();
 
-  </script>
-</body>
+    ctx.clearRect( 0, 0, c.width, c.height);
+    ctx.strokeStyle = "#33CC33";
+    ctx.strokeRect( 50, 50, 100, 100);
+    ctx.beginPath();
+    ctx.moveTo( 75, 75 );
+    ctx.lineTo( 125, 75 );
+    ctx.lineTo( 125, 125 );
+    // ctx.lineTo( 75, 75);
+    ctx.fillStyle = 'blue';
+    ctx.fill();
 
+    ctx.strokeText("HELLO WORLD!", 50, 10);
+
+    ctx.fillText("HELLO WORLD!", 50, 200);
+  </script>
+
+  <style>
+    body {
+      background-color: #ffffff;
+    }
+  </style>
+</body>
 </html>
