@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>CANVAS</title>
+</head>
+
+<body>
+  <canvas id="c" width="500" height="500"></canvas>
+  <!-- <img src="https://placeimg.com/100/100/any" alt=""> -->
+
+  <script>
+    const c = document.querySelector("#c");
+    const ctx = c.getContext("2d");
+
+    ctx.fillRect( 100, 100, 100, 100);
+    ctx.strokeRect( 50, 50, 50, 50);
+
+    ctx.clearRect( 75, 75, 75, 75);
+
+    ctx.beginPath();
+    ctx.moveTo(10, 10);
+    ctx.lineTo(50, 50);
+    ctx.lineTo(50, 10);
+    ctx.lineTo(10, 10);
+    // ctx.fill();
+    ctx.stroke();
+
+  </script>
+</body>
+
+</html>

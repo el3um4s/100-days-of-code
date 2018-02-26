@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>CANVAS</title>
+</head>
+
+<body>
+  <canvas id="c" width="200" height="200"></canvas>
+  <!-- <img src="https://placeimg.com/100/100/any" alt=""> -->
+
+  <script>
+    const c = document.querySelector("#c");
+    const ctx = c.getContext("2d");
+
+    const image = new Image();
+    image.onload = function() {
+      console.log("loaded image");
+      ctx.drawImage(image, 0, 0, c.width, c.height);
+
+      /*
+      FUNZIONA SOLAMENTE CON SITI SU SERVER
+      const savedImage = c.toDataURL();
+      window.open(savedImage);
+      */
+    }
+
+    image.src = "landscape.jpg";
+
+  </script>
+</body>
+
+</html>
