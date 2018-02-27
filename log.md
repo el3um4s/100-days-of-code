@@ -389,12 +389,16 @@ props: { value: Object }
 
 `46th day` Seguito la correzione dell'esercizio **Form Sign Up** e fatto la sezione 12 sulle Directives.
 
-### R1D46: February 23, 2018 (2h)
+### R1D47: February 23, 2018 (2h)
 
 `47th day` Questi giorni sono complicati, ieri non sono riuscito a fare nulla: stavo troppo male. Per fortuna le regole dei #100DaysOfCode permettono di saltare un giorno (ma non di saltare più giorni consecutivi). Oggi ho completato la sezione 13, **Filters e Mixins**. Non ho capito bene il perché di questi nomi ma non mi preoccupa troppo. Un filter serve per modificare come appare a schermo un dato, senza modificare il dato stesso. Un Mixin, invece, serve per scrivere del codice riutilizzabile in più compomenti diversi. Penso siano entrambi degli strumenti utili.
 
-### R1D47: February 24, 2018 (2h
+### R1D48: February 24, 2018 (2h)
 
 `48th day` Finalmente sono riuscito a lavorare un pochino senza troppi impicci. Non avevo voglia di studiare e di affrontare un altro capitolo del corso, quindi ho deciso di provare a mettere in pratica quanto imparato finora. Ho rifatto uno dei progetti di FreeCodeCamp, **Random Quote Machine**. È un'app molto semplice: mostra una citazione (più o meno famosa) e cliccando sul pulsante _New Quote_ ne mostra una nuova scelta casualmente da un archivio. È la seconda volta che rifaccio questo esercizio, ma è la prima votla che sono davvero soddisfatto del risultato ottenuto. VueJS è una soluzione facile, veloce e sopratutto comoda.
 
 [Link alla Random Quote Machine](https://el3um4s.github.io/FCC-Random-Quote-Machine/)
+
+### R1D49: February 26, 2018 (1h)
+
+`49th day` Oggi non ho propria voglia di studiare cose complicate. Le transiction e le animazioni in VueJS sono più difficili da comprendere rispetto a quello che immaginavo. Per non perdere completamente il giorno ho deciso di guardare un video corso di Udacity: [HTML5 Canvas] (https://eu.udacity.com/course/html5-canvas--ud292). L'argomento mi interessa, sopratutto nella prospettiva di riprendere in mano Construct. Comunque, ho seguito e fatto tutti gli esercizi della prima sezione. Mi manca da fare il progetto di metà corso.
