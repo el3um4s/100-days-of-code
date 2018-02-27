@@ -14,7 +14,7 @@
   <script>
     const c = document.querySelector("#c");
     const ctx = c.getContext("2d");
-    var data = ctx.getImageData(0,0, c.width, c.height);
+    var data = ctx.getImageData(0,0, 400, 400);
 
     function paintGreen(imageData){
       var numPixel = imageData.data.lenght / 4;
@@ -28,6 +28,42 @@
     }
 
     paintGreen(data);
+
+    const image = new Image();
+    image.onload = function() {
+      ctx.drawImage(image, 0, 0, c.width, c.height);
+      makeGray();
+    }
+    image.src = "landscape.jpg";
+
+
+    function makePixelGray(r, g, b, a){
+      var y = (0.3 * r) + (0.59 * g) + (0.11 * b);
+      return {
+        r: y,
+        g: y,
+        b: y,
+        a: y
+      }
+    }
+
+      function makeGray(){
+        var r, g, b, a;
+        var imageData = ctx.getImageData(0, 0, 400, 400);
+        var numPixel = imageData.data.lenght / 4;
+        for (var i = 0; i < numPixel; i++) {
+          r = imageData.data[i*4+0];
+          g = imageData.data[i*4+1];
+          b = imageData.data[i*4+2];
+          a = imageData.data[i*4+3];
+          var pixel = makePixelGray(r,g,b,a);
+          imageData.data[i*4+0] = pixel.r;
+          imageData.data[i*4+1] = pixel.g;
+          imageData.data[i*4+2] = pixel.b;
+          imageData.data[i*4+3] = pixel.a;
+        }
+        ctx.putImageData(imageData, 0, 0);
+      }
 
   </script>
 </body>
