@@ -402,3 +402,8 @@ props: { value: Object }
 ### R1D49: February 26, 2018 (1h)
 
 `49th day` Oggi non ho propria voglia di studiare cose complicate. Le transiction e le animazioni in VueJS sono più difficili da comprendere rispetto a quello che immaginavo. Per non perdere completamente il giorno ho deciso di guardare un video corso di Udacity: [HTML5 Canvas] (https://eu.udacity.com/course/html5-canvas--ud292). L'argomento mi interessa, sopratutto nella prospettiva di riprendere in mano Construct. Comunque, ho seguito e fatto tutti gli esercizi della prima sezione. Mi manca da fare il progetto di metà corso.
+
+
+### R1D50: February 27, 2018(1h)
+
+`50th day` Finito il corso Udacity su HTML5 Canvas. Beh, corso è una parola grossa: è più una infarinatura sui concetti base. Però è stato interessante. Adesso però è il momento di tornare su VueJS.
