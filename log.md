@@ -409,4 +409,28 @@ props: { value: Object }
 
 ### R1D51: February 28, 2018 (1h)
 
-`51th day` Ho continuato il corso di VueJS. Ho deciso di ricominciare la sezione 14, e ripreso in mano le transiction e le animazioni.
+`51st day` Ho continuato il corso di VueJS. Ho deciso di ricominciare la sezione 14, e ripreso in mano le transiction e le animazioni.
+
+### R1D52: March 1, 2018 (2h)
+
+`52nd day` Finalmente oggi mi sono deciso a riprendere in mano **Construct 3**. E, come già due volte, mi sono arenato su come configurare la _developer mode_ per testare i miei (futuri) plugin. Anche perché, scemo io, non ho mai tenuto traccia scritta del procedimento corretto. E, come per non cambiare, ho deciso di usare nodejs invece di scaricare e installare un qualche programma apposito. Il risultato? Beh, in questo momento funziona ma non ho idea del perché :D. Comunque, mi riporto qui il procedimento per ricordarlo la prossima volta.
+
+  1. per prima cosa mi creo una configurazione base con il comando `npm init`
+  2. installo localmente [http-server](https://www.npmjs.com/package/http-server) con il comando `npm install http-server`
+  3. poi creo i certificati [per abilitare l'ssl](https://stackoverflow.com/questions/12871565/how-to-create-pem-files-for-https-web-server):
+    1. mkdir conf
+    2. cd conf
+    3. wget https://raw.githubusercontent.com/anders94/https-authorized-clients/master/keys/ca.cnf
+    4. openssl req -new -x509 -days 9999 -config ca.cnf -keyout ca-key.pem -out ca-cert.pem
+    5. openssl genrsa -out key.pem 4096
+    6. wget https://raw.githubusercontent.com/anders94/https-authorized-clients/master/keys/server.cnf
+    7. openssl req -new -config server.cnf -key key.pem -out csr.pem
+    8. openssl x509 -req -extfile server.cnf -days 999 -passin "pass:password" -in csr.pem -CA ca-cert.pem -CAkey ca-key.pem -CAcreateserial -out cert.pem
+  4. estraggo i file `cert.pem` e `key.pem`: li metto nella stessa cartella di package.json
+  5. dalla cartella di root del progetto lancio http-server con questo comando: `./node_modules/.bin/http-server -o -a localhost -p 65432 -C cert.pem -K key.pem --ssl --cors`
+    * il numero dopo -p è la porta da aprire, penso si possa tranquillamente usare anche 8000
+    * --ssl e --cors sono fondamentali
+    * i file pem penso si possano riutilizzare anche per altri progetti del generale
+    * -o serve per aprire il browser subito dopo aver creato il server
+
+Dopo aver avviato il server locale è possibile usarlo per passare il file **addon.json** a Construct 3. O, per lo meno adesso funziona. 
