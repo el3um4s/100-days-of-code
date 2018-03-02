@@ -433,4 +433,6 @@ props: { value: Object }
     * i file pem penso si possano riutilizzare anche per altri progetti del generale
     * -o serve per aprire il browser subito dopo aver creato il server
 
-Dopo aver avviato il server locale è possibile usarlo per passare il file **addon.json** a Construct 3. O, per lo meno adesso funziona. 
+Dopo aver avviato il server locale è possibile usarlo per passare il file **addon.json** a Construct 3. O, per lo meno adesso funziona.
+
+[Link al file package.json, cert.pem, key.pem](https://github.com/el3um4s/100-days-of-code/tree/master/Altro/perLocalServerConstruct3) 
