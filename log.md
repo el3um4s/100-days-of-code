@@ -418,14 +418,14 @@ props: { value: Object }
   1. per prima cosa mi creo una configurazione base con il comando `npm init`
   2. installo localmente [http-server](https://www.npmjs.com/package/http-server) con il comando `npm install http-server`
   3. poi creo i certificati [per abilitare l'ssl](https://stackoverflow.com/questions/12871565/how-to-create-pem-files-for-https-web-server):
-    i. mkdir conf
-    i. cd conf
-    i. wget https://raw.githubusercontent.com/anders94/https-authorized-clients/master/keys/ca.cnf
-    i. openssl req -new -x509 -days 9999 -config ca.cnf -keyout ca-key.pem -out ca-cert.pem
-    i. openssl genrsa -out key.pem 4096
-    i. wget https://raw.githubusercontent.com/anders94/https-authorized-clients/master/keys/server.cnf
-    i. openssl req -new -config server.cnf -key key.pem -out csr.pem
-    i. openssl x509 -req -extfile server.cnf -days 999 -passin "pass:password" -in csr.pem -CA ca-cert.pem -CAkey ca-key.pem -CAcreateserial -out cert.pem
+    * mkdir conf
+    * cd conf
+    * wget https://raw.githubusercontent.com/anders94/https-authorized-clients/master/keys/ca.cnf
+    * openssl req -new -x509 -days 9999 -config ca.cnf -keyout ca-key.pem -out ca-cert.pem
+    * openssl genrsa -out key.pem 4096
+    * wget https://raw.githubusercontent.com/anders94/https-authorized-clients/master/keys/server.cnf
+    * openssl req -new -config server.cnf -key key.pem -out csr.pem
+    * openssl x509 -req -extfile server.cnf -days 999 -passin "pass:password" -in csr.pem -CA ca-cert.pem -CAkey ca-key.pem -CAcreateserial -out cert.pem
   4. estraggo i file `cert.pem` e `key.pem`: li metto nella stessa cartella di package.json
   5. dalla cartella di root del progetto lancio http-server con questo comando: `./node_modules/.bin/http-server -o -a localhost -p 65432 -C cert.pem -K key.pem --ssl --cors`
     * il numero dopo -p è la porta da aprire, penso si possa tranquillamente usare anche 8000
