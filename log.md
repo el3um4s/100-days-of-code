@@ -435,4 +435,12 @@ props: { value: Object }
 
 Dopo aver avviato il server locale è possibile usarlo per passare il file **addon.json** a Construct 3. O, per lo meno adesso funziona.
 
-[Link al file package.json, cert.pem, key.pem](https://github.com/el3um4s/100-days-of-code/tree/master/Altro/perLocalServerConstruct3) 
+[Link al file package.json, cert.pem, key.pem](https://github.com/el3um4s/100-days-of-code/tree/master/Altro/perLocalServerConstruct3)
+
+### R1D53: March 2, 2018 (1h)
+
+`53rd day` Finalmente ho finito le animaioni e le transiction in VueJS. Posso dire che ho odiato con tutto me stesso questo modulo? Non tanto perché non ne vedo l'utilità pratica, quanto perché ho fatto una gran fatica ad affrontare questo aspetto. Ma ho finito, e questo mi fa contento.
+
+### R1D54: March 3, 2018 (2h)
+
+`54th day` Oggi sono andato avanti col il corso di VueJS e ho affrontato la section 15: **vue-resource**. Caspita, mi si è aperto un mondo davanti! Certo, non ho in progetto di usare **firebase**. Ma l'unione tra VueJS, vue-resource e quest'ultimo apre delle prospettive interessanti. Molto interessanti: il mio cervellino si è messo a frullare e a macinare idee su idee. Peccato non avere il tempo per esplorarle a fondo.
