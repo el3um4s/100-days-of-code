@@ -444,3 +444,7 @@ Dopo aver avviato il server locale è possibile usarlo per passare il file **add
 ### R1D54: March 3, 2018 (2h)
 
 `54th day` Oggi sono andato avanti col il corso di VueJS e ho affrontato la section 15: **vue-resource**. Caspita, mi si è aperto un mondo davanti! Certo, non ho in progetto di usare **firebase**. Ma l'unione tra VueJS, vue-resource e quest'ultimo apre delle prospettive interessanti. Molto interessanti: il mio cervellino si è messo a frullare e a macinare idee su idee. Peccato non avere il tempo per esplorarle a fondo.
+
+### R1D55: March 4, 2018 (1h)
+
+`55th day` Arrivato alla spiegazione di **vue-router**. Adesso le cose iniziano davvero a essere interessanti. Il programma che ho in testa sta Finalmente prendendo forma. O, per meglio dire, inizio ad avere gli strumenti teorici per poter cominciare a lavorarci seriamente. Mi manca ancora l'esperienza, la pratica e lo scontrarmi con i problemi minori. Però sono ottimista. Davvero.
