@@ -1,7 +1,7 @@
 <template>
   <div>
     <p>Counter is: {{ counter }}</p>
-    <p>Counter is: {{ $store.state.counter }}</p>
+    <!-- <p>Counter is: {{ $store.state.counter }}</p> -->
   </div>
 </template>
 
