@@ -448,3 +448,9 @@ Dopo aver avviato il server locale è possibile usarlo per passare il file **add
 ### R1D55: March 4, 2018 (1h)
 
 `55th day` Arrivato alla spiegazione di **vue-router**. Adesso le cose iniziano davvero a essere interessanti. Il programma che ho in testa sta Finalmente prendendo forma. O, per meglio dire, inizio ad avere gli strumenti teorici per poter cominciare a lavorarci seriamente. Mi manca ancora l'esperienza, la pratica e lo scontrarmi con i problemi minori. Però sono ottimista. Davvero.
+
+### R1D56: March 6, 2018 (3)
+
+`56th day` Iniziato a creare una calcolatrice con VueJS ed Electron.
+
+[Link](https://github.com/el3um4s/vue-calc)
