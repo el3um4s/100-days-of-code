@@ -454,3 +454,9 @@ Dopo aver avviato il server locale è possibile usarlo per passare il file **add
 `56th day` Iniziato a creare una calcolatrice con VueJS ed Electron.
 
 [Link](https://github.com/el3um4s/vue-calc)
+
+### R1D57: March 8, 2018 (3)
+
+`57th day` Impostato la maschera della calcolatrice. (ps, domani devo trovare il tempo per aggiornare il log)
+
+[Link](https://github.com/el3um4s/vue-calc)
