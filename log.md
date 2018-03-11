@@ -460,3 +460,9 @@ Dopo aver avviato il server locale è possibile usarlo per passare il file **add
 `57th day` Impostato la maschera della calcolatrice. (ps, domani devo trovare il tempo per aggiornare il log)
 
 [Link](https://github.com/el3um4s/vue-calc)
+
+### R1D58: March 10, 2018 (3)
+
+`58th day` Oggi ho passato ore, troppe ore, a tentare di impostare la parte grafica del display della calcolatrice. Il risultato? Pessimo, davvero pessimo. Devo ricordare che prima di pensare alla grafica sarebbe meglio concentrarsi sul funzionamento base: se l'avessi fatto a quest'ora avrei probabilmente impostato il grosso delle routine.
+
+[Link](https://github.com/el3um4s/vue-calc)
