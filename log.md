@@ -449,20 +449,24 @@ Dopo aver avviato il server locale è possibile usarlo per passare il file **add
 
 `55th day` Arrivato alla spiegazione di **vue-router**. Adesso le cose iniziano davvero a essere interessanti. Il programma che ho in testa sta Finalmente prendendo forma. O, per meglio dire, inizio ad avere gli strumenti teorici per poter cominciare a lavorarci seriamente. Mi manca ancora l'esperienza, la pratica e lo scontrarmi con i problemi minori. Però sono ottimista. Davvero.
 
-### R1D56: March 6, 2018 (3)
+### R1D56: March 6, 2018 (3h)
 
 `56th day` Iniziato a creare una calcolatrice con VueJS ed Electron.
 
 [Link](https://github.com/el3um4s/vue-calc)
 
-### R1D57: March 8, 2018 (3)
+### R1D57: March 8, 2018 (3h)
 
 `57th day` Impostato la maschera della calcolatrice. (ps, domani devo trovare il tempo per aggiornare il log)
 
 [Link](https://github.com/el3um4s/vue-calc)
 
-### R1D58: March 10, 2018 (3)
+### R1D58: March 10, 2018 (3h)
 
 `58th day` Oggi ho passato ore, troppe ore, a tentare di impostare la parte grafica del display della calcolatrice. Il risultato? Pessimo, davvero pessimo. Devo ricordare che prima di pensare alla grafica sarebbe meglio concentrarsi sul funzionamento base: se l'avessi fatto a quest'ora avrei probabilmente impostato il grosso delle routine.
 
 [Link](https://github.com/el3um4s/vue-calc)
+
+### R1D59: March 12, 2018 (2h)
+
+`59th day` (D5 of **#VueCalc**, a #Calculator build with #VueJS and #Electron) Finito di lavorare sulle ruoutine base di calcolo. Adesso funzionano le 4 operazioni di base e il simbolo uguale. Ho anche sistemato il display per mostrare sullo schermo i risultati delle operazioni precedenti.
