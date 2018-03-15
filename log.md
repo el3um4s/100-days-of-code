@@ -470,3 +470,7 @@ Dopo aver avviato il server locale è possibile usarlo per passare il file **add
 ### R1D59: March 12, 2018 (2h)
 
 `59th day` (D5 of **#VueCalc**, a #Calculator build with #VueJS and #Electron) Finito di lavorare sulle ruoutine base di calcolo. Adesso funzionano le 4 operazioni di base e il simbolo uguale. Ho anche sistemato il display per mostrare sullo schermo i risultati delle operazioni precedenti.
+
+### R1D60: March 14, 2018 (3h)
+
+`60th day` Ho rifatto completamente le routine di calcolo della mia **VueCalc**. Ho deciso di utilizzare più a fondo [decimal.js](https://github.com/MikeMcl/decimal.js/) per gestire le operazioni. Penso che mi semplifichi la gestione del segno (negativo e positivo), dei decimali e delle altre operazioni. Certo, è tutto da vedere se è davvero così. Per il momento, però, sono riuscito a far funzionare il tasto per cambiare il segno di un numero: hurra!
