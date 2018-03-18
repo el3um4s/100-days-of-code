@@ -473,4 +473,6 @@ Dopo aver avviato il server locale è possibile usarlo per passare il file **add
 
 ### R1D60: March 14, 2018 (3h)
 
-`60th day` Ho rifatto completamente le routine di calcolo della mia **VueCalc**. Ho deciso di utilizzare più a fondo [decimal.js](https://github.com/MikeMcl/decimal.js/) per gestire le operazioni. Penso che mi semplifichi la gestione del segno (negativo e positivo), dei decimali e delle altre operazioni. Certo, è tutto da vedere se è davvero così. Per il momento, però, sono riuscito a far funzionare il tasto per cambiare il segno di un numero: hurra!
+`60th day` Ho rifatto completamente le routine di calcolo della mia **VueCalc**. Ho deciso di utilizzare più a fondo [decimal.js](https://github.com/MikeMcl/decimal.js/) per gestire le operazioni. Penso che mi semplifichi la gestione del segno (negativo e positivo), dei decimali e delle altre operazioni. Certo, è tutto da vedere se è davvero così. Per il momento, però sono riuscito a far funzionare il tasto per cambiare il segno di un numero: hurra!
+
+[Link](https://github.com/el3um4s/vue-calc)
