@@ -9,6 +9,8 @@
 1. R1D25 - Udemy - [**Tasky**](https://github.com/el3um4s/electron-tasky) (Only the course's code)
 1. R1D27 - Udemy - [**Convert**](https://github.com/el3um4s/electron-convert) (Only the course's code)
 1. R1D47 - GitHub - [VueJS - **Random Quote Machine**](https://el3um4s.github.io/FCC-Random-Quote-Machine/)
+1. GitHub - [VueJS - **Vue-Calc**](https://github.com/el3um4s/vue-calc) - [link to Electron site](https://electronjs.org/apps/vue-calc)
+1. GitHub - [**Local Server for Construct 3**](https://github.com/el3um4s/local-server-for-construct-3)
 
 ### Certifications
 
