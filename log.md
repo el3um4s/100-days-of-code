@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - ROUND 01
 
 ### Projects completed
 
@@ -11,6 +11,7 @@
 1. R1D47 - GitHub - [VueJS - **Random Quote Machine**](https://el3um4s.github.io/FCC-Random-Quote-Machine/)
 1. GitHub - [VueJS - **Vue-Calc**](https://github.com/el3um4s/vue-calc) ([link to Electron site](https://electronjs.org/apps/vue-calc))
 1. GitHub - [**Local Server for Construct 3**](https://github.com/el3um4s/local-server-for-construct-3) ([link to Scirra site](https://www.scirra.com/forum/local-server-for-construct-3-windows_t202749))
+1. GitHub - [**Bubbly Background - Construct 3 Addon **](https://el3um4s.github.io/c3-global-plugin-bubbly-background/) ([Online Demo](https://el3um4s.github.io/c3-global-plugin-bubbly-background/demo/www/index.html))
 
 ### Certifications
 
