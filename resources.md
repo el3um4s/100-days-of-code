@@ -4,7 +4,7 @@
 
 ### Articles
 1. [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4) freeCodeCamp Medium
-2. [Boot Up 2017 with the #100DaysOfCode Challenge](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) freeCodeCamp Medium 
+2. [Boot Up 2017 with the #100DaysOfCode Challenge](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) freeCodeCamp Medium
 3. [Resistance, Habit Change and the #100DaysOfCode Movement](https://studywebdevelopment.com/100-days-of-code.html) StudyWebDevelopment Blog
 
 ### Podcasts
@@ -35,7 +35,9 @@
 3. "Mastering JavaScript" by Ved Antani
 
 ## Contents
+* [Go To Home](https://el3um4s.github.io/100-days-of-code/)
+* [ROUND 02 - Log - click here to see my progress](logR2.md)
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [ROUND 01: Day 1 - Day 60](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)

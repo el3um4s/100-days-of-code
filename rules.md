@@ -22,7 +22,9 @@ January 4th, 2018.
 5. Another good bonus of forking this repo -> if you haven't worked with Markdown before, it's a good way to practice.
 
 ## Contents
+* [Go To Home](https://el3um4s.github.io/100-days-of-code/)
+* [ROUND 02 - Log - click here to see my progress](logR2.md)
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [ROUND 01: Day 1 - Day 60](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)

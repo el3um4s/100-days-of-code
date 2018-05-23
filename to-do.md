@@ -1,5 +1,12 @@
 ## To Do List
 
+* [Go To Home](https://el3um4s.github.io/100-days-of-code/)
+* [ROUND 02 - Log - click here to see my progress](logR2.md)
+* [Rules](rules.md)
+* [ROUND 01: Day 1 - Day 60](log.md)
+* [FAQ](FAQ.md)
+* [Resources](resources.md)
+
 ### Git And GitHub
 
   1. [Writing READMEs](https://eu.udacity.com/course/writing-readmes--ud777) - Approx. 3 Days ![rispostaGiusta]

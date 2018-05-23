@@ -1,3 +1,12 @@
+* [Go To Home](https://el3um4s.github.io/100-days-of-code/)
+* [ROUND 02 - Log - click here to see my progress](logR2.md)
+* [Rules](rules.md)
+* [ROUND 01: Day 1 - Day 60](log.md)
+* [FAQ](FAQ.md)
+* [Resources](resources.md)
+
+
+
 ### Build a Tribute Page
 
 1. Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/NNvBQW/.
