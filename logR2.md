@@ -24,6 +24,8 @@ Ci sarebbero anche altre cose, ovviamente. Ma data l'esperienza del primo round,
 
 Si comincia.
 
+![flappy-bird-01.gif](/Udemy/Construct3/the-complete-game-creation-learning-course/img-log/flappy-bird-01.gif)
+
 E si comincia con un clone di **FlappyBird**. È un ripasso (è la terza o quarta volta che faccio una cosa simile) ma il corso ha questo come primo progetto. Quindi:
 
   * [Source Code](/Udemy/Construct3/the-complete-game-creation-learning-course/src/FlappyBird.c3p)
@@ -33,7 +35,7 @@ E si comincia con un clone di **FlappyBird**. È un ripasso (è la terza o quart
 
 ![platformer-01.gif](/Udemy/Construct3/the-complete-game-creation-learning-course/img-log/platformer-01.gif)
 
-Secondo giorno, e secondo progetto: oggi è stato il turno dei giochi _platformer_. Non ho mai completato un platformer, quindi sono abbastanza curioso di vedere cosa posso tirare fuori da questo corso. Per il momento, oggi, ho completato la prima parte, quindi:
+Secondo giorno, e secondo progetto: oggi è stato il turno dei giochi **platformer**. Non ho mai completato un platformer, quindi sono abbastanza curioso di vedere cosa posso tirare fuori da questo corso. Per il momento, oggi, ho completato la prima parte, quindi:
 
   * uso di una tilemap
   * movimento del player tramite tastiera
