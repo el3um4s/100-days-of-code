@@ -28,5 +28,3 @@ E si comincia con un clone di **FlappyBird**. È un ripasso (è la terza o quart
 
   * [Source Code](/Udemy/Construct3/the-complete-game-creation-learning-course/src/FlappyBird.c3p)
   * [Online Demo](/Udemy/Construct3/the-complete-game-creation-learning-course/flappy-bird/index.html)
-
-![flappy-bird-clone](/Udemy/Construct3/the-complete-game-creation-learning-course/img-log/R2D1-flappybird-clone.mp4)
