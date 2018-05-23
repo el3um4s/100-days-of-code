@@ -28,3 +28,13 @@ E si comincia con un clone di **FlappyBird**. È un ripasso (è la terza o quart
 
   * [Source Code](/Udemy/Construct3/the-complete-game-creation-learning-course/src/FlappyBird.c3p)
   * [Online Demo](/Udemy/Construct3/the-complete-game-creation-learning-course/flappy-bird/index.html)
+
+### R2D2: Mercoledì 23 Marzo 2018
+
+Secondo giorno, e secondo progetto: oggi è stato il turno dei giochi _platformer_. Non ho mai completato un platformer, quindi sono abbastanza curioso di vedere cosa posso tirare fuori da questo corso. Per il momento, oggi, ho completato la prima parte, quindi:
+
+  * uso di una tilemap
+  * movimento del player tramite tastiera
+  * e _l'arrampicata sui muri_
+
+Va bene, anche se speravo di riuscire a concludere completamente il progetto.
