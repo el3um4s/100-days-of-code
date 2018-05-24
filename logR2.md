@@ -42,3 +42,18 @@ Secondo giorno, e secondo progetto: oggi è stato il turno dei giochi **platform
   * e _l'arrampicata sui muri_
 
 Va bene, anche se speravo di riuscire a concludere completamente il progetto.
+
+### R2D3: Giovedì 24 Marzo 2018
+
+![platformer-02.gif](/Udemy/Construct3/the-complete-game-creation-learning-course/img-log/platformer-02.gif)
+
+Il secondo progetto del corso mi sta tenendo impegnato più quanto pensassi. Anche perché non pensavo ci fossero così tante cose da fare per impostare un **platformer**. Comunque, oggi ho aggiunto:
+
+  * un contatore dei punti
+  * una barra della salute per il player (la barra cambia lunghezza in base alla salute del gicatore)
+  * diversi tipi di nemici:
+    - uno fermo, che si attiva andandoci addosso
+    - uno che si muove in orrizontale
+    - uno che si muove in verticale
+    - uno che spara verso la direzione del player
+  * un power up per attivare il double jump
