@@ -5,6 +5,7 @@
 ### Projects completed
 
   1. R2D1 - **FlappyBird Clone** - [Online Demo](/Udemy/Construct3/the-complete-game-creation-learning-course/flappy-bird/index.html) - [Source Code](/Udemy/Construct3/the-complete-game-creation-learning-course/src/FlappyBird.c3p)
+  1. R2D4 - **Plaftormer Demo** - [Online Demo](/Udemy/Construct3/the-complete-game-creation-learning-course/platformer/index.html) - [Source Code](/Udemy/Construct3/the-complete-game-creation-learning-course/src/Platformer.c3p)
 
 ### R2D1: Martedì 22 Marzo 2018
 
@@ -57,3 +58,17 @@ Il secondo progetto del corso mi sta tenendo impegnato più quanto pensassi. Anc
     - uno che si muove in verticale
     - uno che spara verso la direzione del player
   * un power up per attivare il double jump
+
+### R2D4: Venerdì 25 Marzo 2018
+
+![platformer-03.gif](/Udemy/Construct3/the-complete-game-creation-learning-course/img-log/platformer-03.gif)
+
+Finito il secondo progetto del corso: è un semplice **platform game** su un solo livello. Ovviamente è molto semplice però è stato utile per capire come fare a:
+
+  * aggiungere un'arma al player
+  * creare piattaforme che si muovono in verticale o in linea retta
+  * creare un salvataggio del gioco
+
+Link:
+  - [Online Demo](/Udemy/Construct3/the-complete-game-creation-learning-course/platformer/index.html)
+  - [Source Code](/Udemy/Construct3/the-complete-game-creation-learning-course/src/Platformer.c3p)

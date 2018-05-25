@@ -1,0 +1,34 @@
+{
+	"name": "Platformer",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"viewport-width": 512,
+	"viewport-height": 288,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "landscape",
+	"c2version": "244",
+	"c3version": "r101.2",
+	"used-plugins": [
+		"Sprite",
+		"Tilemap",
+		"Keyboard",
+		"Text",
+		"Touch"
+	],
+	"used-behaviors": [
+		"solid",
+		"bound",
+		"Platform",
+		"scrollto",
+		"Flash",
+		"custom",
+		"Bullet",
+		"destroy",
+		"Pin",
+		"jumpthru",
+		"Sin"
+	]
+}
