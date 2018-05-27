@@ -75,6 +75,8 @@ Link:
 
 ### R2D5: Sabato 26 Maggio 2018
 
+![c3-calc.gif](/immagini/construct3/c3-calc.gif)
+
 Oggi niente corso su C3: ho deciso di fare una pausa e di provare a costruire una calcolatrice. L'idea è di rifare con Construct3 la stessa che ho costruito con VueJS. Mi pare che sia fattibile, e che sia anche più semplice.
 
 Per il momento ho costruito l'interfaccia grafica e cominciato a lavorare sugli input da tastiera e da mouse. Ho trovato un problema nella gestione degli array su C3.
