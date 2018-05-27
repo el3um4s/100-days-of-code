@@ -72,3 +72,9 @@ Finito il secondo progetto del corso: è un semplice **platform game** su un sol
 Link:
   - [Online Demo](/Udemy/Construct3/the-complete-game-creation-learning-course/platformer/index.html)
   - [Source Code](/Udemy/Construct3/the-complete-game-creation-learning-course/src/Platformer.c3p)
+
+### R2D5: Sabato 26 Maggio 2018
+
+Oggi niente corso su C3: ho deciso di fare una pausa e di provare a costruire una calcolatrice. L'idea è di rifare con Construct3 la stessa che ho costruito con VueJS. Mi pare che sia fattibile, e che sia anche più semplice.
+
+Per il momento ho costruito l'interfaccia grafica e cominciato a lavorare sugli input da tastiera e da mouse. Ho trovato un problema nella gestione degli array su C3.
