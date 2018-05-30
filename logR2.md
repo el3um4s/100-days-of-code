@@ -80,3 +80,12 @@ Link:
 Oggi niente corso su C3: ho deciso di fare una pausa e di provare a costruire una calcolatrice. L'idea è di rifare con Construct3 la stessa che ho costruito con VueJS. Mi pare che sia fattibile, e che sia anche più semplice.
 
 Per il momento ho costruito l'interfaccia grafica e cominciato a lavorare sugli input da tastiera e da mouse. Ho trovato un problema nella gestione degli array su C3.
+
+### R2D6 - R2D7: Lunedì 28 e Martedì 29 Maggio
+
+In questi due giorni mi sono concentrato sulla mia calcolatrice in C3. O, meglio, su come far si che si possa aggiornare automaticamente usando electronjs. Su Windows funziona mentre ho dei problemi con Linux, e onestamente non riesco a venirne a capo.
+
+Comunque, come riferimento, ho usato queste due risorse:
+  - [Quick and painless automatic updates in Electron](https://medium.freecodecamp.org/quick-painless-automatic-updates-in-electron-d993d5408b3a)
+  - [electron-updater-example](https://github.com/iffy/electron-updater-example)
+
