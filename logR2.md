@@ -91,3 +91,6 @@ Comunque, come riferimento, ho usato queste due risorse:
   - [Quick and painless automatic updates in Electron](https://medium.freecodecamp.org/quick-painless-automatic-updates-in-electron-d993d5408b3a)
   - [electron-updater-example](https://github.com/iffy/electron-updater-example)
 
+### R2D8: Mercoledì 30 Maggio
+
+![c3-calc-0.0.4.gif](/immagini/construct3/c3-calc-0.0.4.gif)
