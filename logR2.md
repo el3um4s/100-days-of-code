@@ -94,3 +94,5 @@ Comunque, come riferimento, ho usato queste due risorse:
 ### R2D8: Mercoledì 30 Maggio
 
 ![c3-calc-0.0.4.gif](/immagini/construct3/c3-calc-0.0.4.gif)
+
+Oggi ho modificato molte cose. Ho sistemato i layout in modo da poter gestire diverse _pagine_ in maniera tutto sommato fluida. Ho poi modificato l'icona creandone una specifica. E, infine, ho aggiunto un menù.
