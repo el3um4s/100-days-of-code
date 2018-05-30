@@ -83,6 +83,8 @@ Per il momento ho costruito l'interfaccia grafica e cominciato a lavorare sugli 
 
 ### R2D6 - R2D7: Lunedì 28 e Martedì 29 Maggio
 
+![c3-calc-autoupdate.gif](/immagini/construct3/c3-calc-autoupdate.gif)
+
 In questi due giorni mi sono concentrato sulla mia calcolatrice in C3. O, meglio, su come far si che si possa aggiornare automaticamente usando electronjs. Su Windows funziona mentre ho dei problemi con Linux, e onestamente non riesco a venirne a capo.
 
 Comunque, come riferimento, ho usato queste due risorse:
