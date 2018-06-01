@@ -96,3 +96,9 @@ Comunque, come riferimento, ho usato queste due risorse:
 ![c3-calc-0.0.4.gif](/immagini/construct3/c3-calc-0.0.4.gif)
 
 Oggi ho modificato molte cose. Ho sistemato i layout in modo da poter gestire diverse _pagine_ in maniera tutto sommato fluida. Ho poi modificato l'icona creandone una specifica. E, infine, ho aggiunto un menù.
+
+### R2D9: Giovedì 31 Maggio
+
+![c3-calc-0.0.5.gif](/immagini/construct3/c3-calc-0.0.5.gif)
+
+Ho aggiunto la gestione dei decimali, usando la libreria [math.js](http://mathjs.org/). Ho preferito questa soluzione a quella usata nell'altra mia calcolatrice, [vue-calc](https://github.com/el3um4s/vue-calc), per... beh, semplicemente perché è più semplice da usare. In sostanza ho usato la proprietà `math.eval(...espressione...)` per ottenere il risultato.
