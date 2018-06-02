@@ -6,6 +6,7 @@
 
   1. R2D1 - **FlappyBird Clone** - [Online Demo](/Udemy/Construct3/the-complete-game-creation-learning-course/flappy-bird/index.html) - [Source Code](/Udemy/Construct3/the-complete-game-creation-learning-course/src/FlappyBird.c3p)
   1. R2D4 - **Plaftormer Demo** - [Online Demo](/Udemy/Construct3/the-complete-game-creation-learning-course/platformer/index.html) - [Source Code](/Udemy/Construct3/the-complete-game-creation-learning-course/src/Platformer.c3p)
+  1. R2D10 - **3D Racer** - [Online Demo](/Udemy/Construct3/the-complete-game-creation-learning-course/3d-racer/index.html) - [Source Code](/Udemy/Construct3/the-complete-game-creation-learning-course/src/3DRacer.c3p)
 
 ### R2D1: Martedì 22 Marzo 2018
 
@@ -102,3 +103,7 @@ Oggi ho modificato molte cose. Ho sistemato i layout in modo da poter gestire di
 ![c3-calc-0.0.5.gif](/immagini/construct3/c3-calc-0.0.5.gif)
 
 Ho aggiunto la gestione dei decimali, usando la libreria [math.js](http://mathjs.org/). Ho preferito questa soluzione a quella usata nell'altra mia calcolatrice, [vue-calc](https://github.com/el3um4s/vue-calc), per... beh, semplicemente perché è più semplice da usare. In sostanza ho usato la proprietà `math.eval(...espressione...)` per ottenere il risultato.
+
+### R2D10: Venerdì 1 Giugno
+
+![3d-racer.gif](/Udemy/Construct3/the-complete-game-creation-learning-course/img-log/3d-racer.gif)
