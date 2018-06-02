@@ -107,3 +107,9 @@ Ho aggiunto la gestione dei decimali, usando la libreria [math.js](http://mathjs
 ### R2D10: Venerdì 1 Giugno
 
 ![3d-racer.gif](/Udemy/Construct3/the-complete-game-creation-learning-course/img-log/3d-racer.gif)
+
+Oggi niente C3 Calc: sono tornato al corso di Udemy. Ho fatto un altro modulo, quello dedicato al gioco 3D RACER. Non ho seguito gracnhé il tutorial, anzi. Sono andato per la mia strada ma sono abbastanza soddisfatto del risultato ottenuto.
+
+Link:
+  - [Online Demo](/Udemy/Construct3/the-complete-game-creation-learning-course/3d-racer/index.html)
+  - [Source Code](/Udemy/Construct3/the-complete-game-creation-learning-course/src/3DRacer.c3p)
