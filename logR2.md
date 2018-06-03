@@ -114,3 +114,8 @@ Link:
   - [Online Demo](/Udemy/Construct3/the-complete-game-creation-learning-course/3d-racer/index.html)
   - [Source Code](/Udemy/Construct3/the-complete-game-creation-learning-course/src/3DRacer.c3p)
 
+### R2D11: Domenica 3 Giugno
+
+![turret-defense-01.gif](/Udemy/Construct3/the-complete-game-creation-learning-course/img-log/turret-defense-01.gif)
+
+Oggi solo studio, nessuna attività pratica. Ho studiato come fare un turret defense game: inizio ad avere voglia di creare un gioco completo.
