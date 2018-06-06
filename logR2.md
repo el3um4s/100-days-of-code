@@ -119,3 +119,9 @@ Link:
 ![turret-defense-01.gif](/Udemy/Construct3/the-complete-game-creation-learning-course/img-log/turret-defense-01.gif)
 
 Oggi solo studio, nessuna attività pratica. Ho studiato come fare un turret defense game: inizio ad avere voglia di creare un gioco completo.
+
+### R2D12: Martedì 5 Giugno
+
+![space-invaders-01.gif](/immagini/construct3/space-invaders-01.gif)
+
+Ci ho provato, a seguire un tutorial su come creare un clone di Space Invaders. Il risultato? Una cosa che richiama il gioco classico, ma un po' più fluido. L'effetto non è affatto male, peccato aver aggiunto troppi effetti: su smartphone gira davvero male.
