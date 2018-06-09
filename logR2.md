@@ -125,3 +125,11 @@ Oggi solo studio, nessuna attività pratica. Ho studiato come fare un turret def
 ![space-invaders-01.gif](/immagini/construct3/space-invaders-01.gif)
 
 Ci ho provato, a seguire un tutorial su come creare un clone di Space Invaders. Il risultato? Una cosa che richiama il gioco classico, ma un po' più fluido. L'effetto non è affatto male, peccato aver aggiunto troppi effetti: su smartphone gira davvero male.
+
+### R2D13-D14: Giovedì 7 e Sabato 9 Giugno
+
+![c3-calc-0.0.6-style-color.gif](/immagini/construct3/c3-calc-0.0.6-style-color.gif)
+
+Sono tornato sulla mia C3 Calc e ho cominciato a lavorare sugli stili. Ovvero, per il momento, è possibile scegliere tra 8 diversi colori (`White, Black, Red, Green, Blue, Yellow, Magenta, Cyan`) per lo sfondo e per i caratteri. Non voglio fare una cosa più complessa perché, per il momento, vorrei evitare di aggiungere degli addons personalizzati a C3. Poi, magari, forse più avanti farò qualcosa di più complesso.
+
+Adesso, rispetto a Vue Calc, questa calcolatrice ha una funzionalità in meno (la possibilità di cambiare il formato numerico in base alla lingua del sistema) e una in più (la possibilità di cambiare lo stile grafico). Manca ancora la scelta dei font (che metterò al prossimo giro) e poi penso di rilasciare una nuova versione tramite electronjs.
