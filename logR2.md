@@ -133,3 +133,11 @@ Ci ho provato, a seguire un tutorial su come creare un clone di Space Invaders. 
 Sono tornato sulla mia C3 Calc e ho cominciato a lavorare sugli stili. Ovvero, per il momento, è possibile scegliere tra 8 diversi colori (`White, Black, Red, Green, Blue, Yellow, Magenta, Cyan`) per lo sfondo e per i caratteri. Non voglio fare una cosa più complessa perché, per il momento, vorrei evitare di aggiungere degli addons personalizzati a C3. Poi, magari, forse più avanti farò qualcosa di più complesso.
 
 Adesso, rispetto a Vue Calc, questa calcolatrice ha una funzionalità in meno (la possibilità di cambiare il formato numerico in base alla lingua del sistema) e una in più (la possibilità di cambiare lo stile grafico). Manca ancora la scelta dei font (che metterò al prossimo giro) e poi penso di rilasciare una nuova versione tramite electronjs.
+
+### R2D15: Domenica 10 Giugno
+
+![c3-calc-0.0.6-font-mina-roboto.gif.gif](/immagini/construct3/c3-calc-0.0.6-font-mina-roboto.gif.gif)
+
+### R2D16: Lunedì 11 Giugno
+
+![c3-lunar-landing-01.gif](/immagini/construct3/c3-lunar-landing-01.gif)
