@@ -1,0 +1,19 @@
+html, body {
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+	
+	background: #000000;
+	color: white;
+}
+
+html, body, canvas {
+	touch-action: none;
+	touch-action-delay: none;
+}
+
+@font-face {
+	font-family: 'Monoton-Regular';
+	src: url('fonts/monoton-regular.ttf') format('truetype');
+}
+
