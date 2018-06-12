@@ -138,6 +138,10 @@ Adesso, rispetto a Vue Calc, questa calcolatrice ha una funzionalità in meno (l
 
 ![c3-calc-0.0.6-font-mina-roboto.gif.gif](/immagini/construct3/c3-calc-0.0.6-font-mina-roboto.gif.gif)
 
+Ho pubblicato una nuova versione ci C3 Calc. Alla fine ho deciso di impostare due font di Google come caratteri predefiniti (Mina per i risultati a display, Roboto per tutto il resto): per il momento non voglio aggiungere un'ulteriore livello di personalizzazione.
+
 ### R2D16: Lunedì 11 Giugno
 
 ![c3-lunar-landing-01.gif](/immagini/construct3/c3-lunar-landing-01.gif)
+
+Ho comciniato un'altro semplice gioco. Trovo molto interessante vedere come sono fatto i giochi classici: mi permette di comprendere meglio i meccanismi alla loro base e, spero, di poterli applicare in un qualche progetto più complesso.
