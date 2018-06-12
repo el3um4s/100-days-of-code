@@ -7,6 +7,7 @@
   1. R2D1 - **FlappyBird Clone** - [Online Demo](/Udemy/Construct3/the-complete-game-creation-learning-course/flappy-bird/index.html) - [Source Code](/Udemy/Construct3/the-complete-game-creation-learning-course/src/FlappyBird.c3p)
   1. R2D4 - **Plaftormer Demo** - [Online Demo](/Udemy/Construct3/the-complete-game-creation-learning-course/platformer/index.html) - [Source Code](/Udemy/Construct3/the-complete-game-creation-learning-course/src/Platformer.c3p)
   1. R2D10 - **3D Racer** - [Online Demo](/Udemy/Construct3/the-complete-game-creation-learning-course/3d-racer/index.html) - [Source Code](/Udemy/Construct3/the-complete-game-creation-learning-course/src/3DRacer.c3p)
+  1. R2D17 - **Lunar Lander**- [Online Demo](https://el3um4s.github.io/100-days-of-code/YouTube/Construct3/construct-tutorials-by-cken-yoshida/lunar-lander/) - [Source Code](/YouTube/Construct3/construct-tutorials-by-cken-yoshida/src/LunarLander.c3p)
 
 ### R2D1: Martedì 22 Marzo 2018
 
@@ -145,3 +146,7 @@ Ho pubblicato una nuova versione ci C3 Calc. Alla fine ho deciso di impostare du
 ![c3-lunar-landing-01.gif](/immagini/construct3/c3-lunar-landing-01.gif)
 
 Ho comciniato un'altro semplice gioco. Trovo molto interessante vedere come sono fatto i giochi classici: mi permette di comprendere meglio i meccanismi alla loro base e, spero, di poterli applicare in un qualche progetto più complesso.
+
+### R2D17: Martedì 12 Giugno
+
+![c3-lunar-landing-02.gif](/immagini/construct3/c3-lunar-landing-02.gif)
