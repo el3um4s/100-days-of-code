@@ -150,3 +150,7 @@ Ho comciniato un'altro semplice gioco. Trovo molto interessante vedere come sono
 ### R2D17: Martedì 12 Giugno
 
 ![c3-lunar-landing-02.gif](/immagini/construct3/c3-lunar-landing-02.gif)
+
+### R2D18: Giovedì 14 Giugno
+
+Ho comprato un nuovo corso di Udemy: **Complete Facebook Instant Games Course**. E' fatto abbastanza bene, anche se è pensato più per Construct 2 che per C3. Comunque, spiega abbastanza bene le basi su come impostare un instant game per Facebook, su come ricevere le informazioni del player collegato (cioè il nome, l'immagine profilo e poco altro), e su come gestire le classifiche.
