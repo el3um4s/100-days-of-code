@@ -8,6 +8,13 @@
   1. R2D4 - **Plaftormer Demo** - [Online Demo](/Udemy/Construct3/the-complete-game-creation-learning-course/platformer/index.html) - [Source Code](/Udemy/Construct3/the-complete-game-creation-learning-course/src/Platformer.c3p)
   1. R2D10 - **3D Racer** - [Online Demo](/Udemy/Construct3/the-complete-game-creation-learning-course/3d-racer/index.html) - [Source Code](/Udemy/Construct3/the-complete-game-creation-learning-course/src/3DRacer.c3p)
   1. R2D17 - **Lunar Lander**- [Online Demo](https://el3um4s.github.io/100-days-of-code/YouTube/Construct3/construct-tutorials-by-cken-yoshida/lunar-lander/) - [Source Code](/YouTube/Construct3/construct-tutorials-by-cken-yoshida/src/LunarLander.c3p)
+  1. R2D19 - **Facebook Instant Game** (demo) - [Source Code](/Udemy/Construct3/complete-facebook-instant-games-course/src/)
+
+### Certificates
+
+**R2D19**
+![Facebook Instant Games](/Certificate/UC-EBR70623.jpg)
+
 
 ### R2D1: Martedì 22 Marzo 2018
 
@@ -154,3 +161,9 @@ Ho comciniato un'altro semplice gioco. Trovo molto interessante vedere come sono
 ### R2D18: Giovedì 14 Giugno
 
 Ho comprato un nuovo corso di Udemy: **Complete Facebook Instant Games Course**. E' fatto abbastanza bene, anche se è pensato più per Construct 2 che per C3. Comunque, spiega abbastanza bene le basi su come impostare un instant game per Facebook, su come ricevere le informazioni del player collegato (cioè il nome, l'immagine profilo e poco altro), e su come gestire le classifiche.
+
+### R2D19: Venerdì 15 Giugno
+
+![Facebook Instant Games](/Certificate/UC-EBR70623.jpg)
+
+Finito il corso sugli Instant Games di Facebook.
