@@ -167,3 +167,11 @@ Ho comprato un nuovo corso di Udemy: **Complete Facebook Instant Games Course**.
 ![Facebook Instant Games](/Certificate/UC-EBR70623.jpg)
 
 Finito il corso sugli Instant Games di Facebook.
+
+### R2D20: Sabato 16 Giugno
+
+![c3-match3.gif](/immagini/construct3/c3-match3.gif)
+
+Ho cominciato a studiare come creare un gioco match 3. Sto seguendo una serie di tutorial di qualche anno fa, per il momento pare abbastanza semplice e fattibile.
+
+Link: [Match 3 tutorial](http://davesilvermanart.com/blog/2013/07/16/post-mortem-match-3-tutorial-series/)
