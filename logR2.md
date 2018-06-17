@@ -9,6 +9,7 @@
   1. R2D10 - **3D Racer** - [Online Demo](/Udemy/Construct3/the-complete-game-creation-learning-course/3d-racer/index.html) - [Source Code](/Udemy/Construct3/the-complete-game-creation-learning-course/src/3DRacer.c3p)
   1. R2D17 - **Lunar Lander**- [Online Demo](https://el3um4s.github.io/100-days-of-code/YouTube/Construct3/construct-tutorials-by-cken-yoshida/lunar-lander/) - [Source Code](/YouTube/Construct3/construct-tutorials-by-cken-yoshida/src/LunarLander.c3p)
   1. R2D19 - **Facebook Instant Game** (demo) - [Source Code](/Udemy/Construct3/complete-facebook-instant-games-course/src/)
+  1. R2D21 - **Match 3** - [Online Demo](/Udemy/Construct3/make-a-match-3-game-in-construct -2/Match3/) - [Source Code](/Udemy/Construct3/make-a-match-3-game-in-construct -2/Match3.c3p)
 
 ### Certificates
 
@@ -175,3 +176,9 @@ Finito il corso sugli Instant Games di Facebook.
 Ho cominciato a studiare come creare un gioco match 3. Sto seguendo una serie di tutorial di qualche anno fa, per il momento pare abbastanza semplice e fattibile.
 
 Link: [Match 3 tutorial](http://davesilvermanart.com/blog/2013/07/16/post-mortem-match-3-tutorial-series/)
+
+### R2D21: Domenica 17 Giugno
+
+![c3-match3-end.gif](/immagini/construct3/c3-match3-end.gif)
+
+Finito anche questo esercizio. Volendo potrei anche andare avanti, aggiungendo un po' di cosette. Ma per il momento mi fermo qui. Adesso devo pensare un pochetto a che tipo di gioco voglio creare. Ho molte idee in testa, ma sopratutto voglio fare un progetto completo. Quindi mi serve un gioco semplice, che non richieda troppo lavoro e mi permetta di (ri)provare la pubblicazione su Play Store.
