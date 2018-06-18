@@ -182,3 +182,4 @@ Link: [Match 3 tutorial](http://davesilvermanart.com/blog/2013/07/16/post-mortem
 ![c3-match3-end.gif](/immagini/construct3/c3-match3-end.gif)
 
 Finito anche questo esercizio. Volendo potrei anche andare avanti, aggiungendo un po' di cosette. Ma per il momento mi fermo qui. Adesso devo pensare un pochetto a che tipo di gioco voglio creare. Ho molte idee in testa, ma sopratutto voglio fare un progetto completo. Quindi mi serve un gioco semplice, che non richieda troppo lavoro e mi permetta di (ri)provare la pubblicazione su Play Store.
+
