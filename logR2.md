@@ -192,3 +192,7 @@ Finito anche questo esercizio. Volendo potrei anche andare avanti, aggiungendo u
 ![c3-one-touch-platformer-01.gif](/immagini/construct3/c3-one-touch-platformer-01.gif)
 
 Ieri e oggi ho lavorato sull'idea di un gioco platformer per smartphone. Importante, penso, la possibilità di giocarci con in telefono in verticale e con dei comandi molto semplici. Quindi, penso che userò un movimento collegato al lancio di una corda. Ogni volta che si tocca lo schermo viene lanciata una corda. Quando la corda si attacca a qualcosa il giocatore viene trascinato verso la cima.
+
+### R2D24: Giovedì 21 Giugno
+
+![c3-one-touch-platformer-02.gif](/immagini/construct3/c3-one-touch-platformer-02.gif)
