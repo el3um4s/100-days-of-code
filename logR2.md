@@ -196,3 +196,8 @@ Ieri e oggi ho lavorato sull'idea di un gioco platformer per smartphone. Importa
 ### R2D24: Giovedì 21 Giugno
 
 ![c3-one-touch-platformer-02.gif](/immagini/construct3/c3-one-touch-platformer-02.gif)
+
+### R2D25: Venerdì 22 Giugno
+
+![c3-one-touch-platformer-03.gif](/immagini/construct3/c3-one-touch-platformer-03.gif)
+
