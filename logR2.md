@@ -201,3 +201,4 @@ Ieri e oggi ho lavorato sull'idea di un gioco platformer per smartphone. Importa
 
 ![c3-one-touch-platformer-03.gif](/immagini/construct3/c3-one-touch-platformer-03.gif)
 
+
