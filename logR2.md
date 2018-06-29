@@ -208,3 +208,7 @@ Ieri e oggi ho lavorato sull'idea di un gioco platformer per smartphone. Importa
 ### R2D27: Martedì 26 Giugno
 
 ![c3-one-touch-platformer-05-autotiles-test.gif](/immagini/construct3/c3-one-touch-platformer-05-autotiles-test.gif)
+
+### R2D28: Giovedì 28 Giugno
+
+![c3-one-touch-platformer-06-autotiles-test-live.gif](/immagini/construct3/c3-one-touch-platformer-06-autotiles-test-live.gif)
