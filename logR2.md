@@ -216,3 +216,4 @@ Ieri e oggi ho lavorato sull'idea di un gioco platformer per smartphone. Importa
 ### R2D29: Sabato 30 Giugno
 
 ![c3-one-touch-platformer-09-zoomELunghezza.gif](/immagini/construct3/c3-one-touch-platformer-09-zoomELunghezza.gif)
+
