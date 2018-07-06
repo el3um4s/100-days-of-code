@@ -228,3 +228,13 @@ Clicca sull'immagine per far partire il video
 [![One touch platfomer game](https://img.youtube.com/vi/3-8x0tG3bEk/0.jpg)](https://www.youtube.com/watch?v=3-8x0tG3bEk)
 
 Oggi giorno di test: ho creato il primo livello di test. Ovviamente non è completo però è la prima prova effettiva delle potenzialità del gioco. E devo dirlo, sono soddisfatto. Il personaggio si muove bene e ci sono buone potenzialità per creare livelli interessanti.
+
+### R2D32: Giovedì 5 Luglio
+
+![c3-one-touch-platformer-10-prova-grafica-a-mano.gif](/immagini/construct3/c3-one-touch-platformer-10-prova-grafica-a-mano.gif)
+
+![c3-one-touch-platformer-11-prova-grafica-a-mano.gif](/immagini/construct3/c3-one-touch-platformer-11-prova-grafica-a-mano.gif)
+
+### R2D33: Venerdì 6 Luglio
+
+![c3-one-touch-platformer-12-prova-sangue.gif](/immagini/construct3/c3-one-touch-platformer-12-prova-sangue.gif)
