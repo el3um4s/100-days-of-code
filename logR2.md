@@ -238,3 +238,7 @@ Oggi giorno di test: ho creato il primo livello di test. Ovviamente non è compl
 ### R2D33: Venerdì 6 Luglio
 
 ![c3-one-touch-platformer-12-prova-sangue.gif](/immagini/construct3/c3-one-touch-platformer-12-prova-sangue.gif)
+
+### R2D34: Sabato 7 Luglio
+
+![c3-one-touch-platformer-13-refractoring-camera-system.gif](/immagini/construct3/c3-one-touch-platformer-13-refractoring-camera-system.gif)
