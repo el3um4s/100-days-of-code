@@ -242,3 +242,11 @@ Oggi giorno di test: ho creato il primo livello di test. Ovviamente non è compl
 ### R2D34: Sabato 7 Luglio
 
 ![c3-one-touch-platformer-13-refractoring-camera-system.gif](/immagini/construct3/c3-one-touch-platformer-13-refractoring-camera-system.gif)
+
+### R2D35: Domenica 8 Luglio
+
+Oggi ho cominciato a lavorare su un meccanismo per creare automaticamente i vari livelli. Non ho ancora trovato la soluzione ma ho scovato due articoli utili:
+* [SpelunkyGen (part 1)](http://tinysubversions.com/spelunkyGen/)
+* [SpelunkyGen (part 2)](http://tinysubversions.com/spelunkyGen2/)
+Penso di aver grosso modo capito la teoria che ci sta dietro. Mi manca però tutta la parte pratica :sweat_smile:
+
