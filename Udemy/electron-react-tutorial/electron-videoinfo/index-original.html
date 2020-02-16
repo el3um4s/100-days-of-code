@@ -1,0 +1,35 @@
+<head>
+</head>
+<body>
+  <h1>Video Info</h1>
+  <form>
+    <div>
+      <label>Select a video</label>
+      <input type="file" accept="video/*" />
+    </div>
+    <button type="submit">Get Info</button>
+  </form>
+
+  <h1 id="result"></h1>
+
+  <script>
+    // per comunicare con l'app Electron partendo dal mainWindow
+    const electron = require('electron');
+    const { ipcRenderer } = electron;
+    document.querySelector('form').addEventListener('submit', (event) => {
+      event.preventDefault();
+      //debugger
+      //const file = document.querySelector('input').files[0];
+      // mi serve solo la posizione del file sul pc, quindi mi salvo solo la proprieù path
+      const { path } = document.querySelector('input').files[0];
+      // per spderire all'app di Electron l'indirizzo del video uso la funzione
+      // ipcRenderer.send(nomeCheIdentificaAzione, datoDaSpedire)
+      // il nome può essere una qualsiasi string, non è necessario usare il formato dell'esempio
+      ipcRenderer.send('video:submit', path);
+    });
+    ipcRenderer.on('video:metadata', (event, duration) => {
+      document.querySelector('#result').innerHTML = `Video is ${duration} seconds.`;
+    });
+  </script>
+
+</body>

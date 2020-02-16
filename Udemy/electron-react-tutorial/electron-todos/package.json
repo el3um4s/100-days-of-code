@@ -1,0 +1,26 @@
+{
+  "name": "electron-todos",
+  "version": "0.0.1",
+  "description": "Una semplice app To Do List per testare la gestione delle finestre in Electron.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "electron": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/el3um4s/electron-todos.git"
+  },
+  "author": "Samuele De Tomasi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/el3um4s/electron-todos/issues"
+  },
+  "homepage": "https://github.com/el3um4s/electron-todos#readme",
+  "dependencies": {
+    "electron": "^1.8.1"
+  },
+  "devDependencies": {
+    "eslint-config-rallycoding": "^3.2.0"
+  }
+}

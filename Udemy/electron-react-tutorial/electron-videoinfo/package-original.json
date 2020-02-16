@@ -1,0 +1,25 @@
+{
+  "name": "electron-videoinfo",
+  "version": "1.0.0",
+  "description": "Informazioni su file video.",
+  "author": "Samuele De Tomasi",
+  "license": "CC-BY-4.0",
+  "homepage": "https://github.com/el3um4s/electron-videoinfo#readme",
+  "bugs": {
+    "url": "https://github.com/el3um4s/electron-videoinfo/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/el3um4s/electron-videoinfo.git"
+  },
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2"
+  },
+  "devDependencies": {
+    "electron": "^1.8.1"
+  }
+}

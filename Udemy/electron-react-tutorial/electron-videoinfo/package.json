@@ -1,0 +1,56 @@
+{
+  "name": "videoinfo",
+  "version": "1.0.0",
+  "description": "Informazioni su file video.",
+  "author": {
+    "name": "Samuele De Tomasi",
+    "email": "el3um4s@gmail.com",
+    "url": "http://stranianelli.com/"
+  },
+  "license": "CC-BY-4.0",
+  "homepage": "https://github.com/el3um4s/electron-videoinfo#readme",
+  "bugs": {
+    "url": "https://github.com/el3um4s/electron-videoinfo/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "electron": "electron .",
+    "restore": "npm i --no-optional --no-package-lock",
+    "postinstall": "install-app-deps",
+    "start": "npm install && electron .",
+    "pack": "build --dir",
+    "dist": "build",
+    "dist:win": "build --win --ia32 --x64",
+    "dist:32win": "build --win --ia32 ",
+    "dist:64win": "build --win --x64",
+    "dist:32deb": "build --linux --ia32",
+    "dist:64deb": "build --linux --x64"
+  },
+  "build": {
+    "appId": "com.stranianelli.videoinfo",
+    "productName": "Video Info",
+    "copyright": "Copyright © year Strani Anelli",
+    "linux": {
+      "target": [
+        "deb"
+      ],
+      "icon": "icons/png"
+    },
+    "win": {
+      "target": "portable",
+      "icon": "build/icon.ico"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/el3um4s/electron-videoinfo.git"
+  },
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2"
+  },
+  "devDependencies": {
+    "7zip-bin": "^2.4.1",
+    "electron": "^1.8.1",
+    "electron-builder": "^19.55.2"
+  }
+}

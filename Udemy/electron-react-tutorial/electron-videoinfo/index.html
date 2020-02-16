@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Video Info</title>
+  <style>
+    /* roboto-regular - latin */
+
+    @font-face {
+      font-family: 'Roboto';
+      font-style: normal;
+      font-weight: 400;
+      src: local('Roboto'), local('Roboto-Regular'),
+      url('./fonts/roboto-v18-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url('./fonts/roboto-v18-latin-regular.woff') format('woff');
+      /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      color: #646360;
+      font-size: 16px;
+      background-color: #acb6e5;
+      font-family: 'Roboto', sans-serif;
+    }
+
+    .header {
+      display: block;
+      width: 100%;
+      height: 60px;
+      padding: 12px 0;
+      text-align: center;
+      /*background-color: #FFF;*/
+      box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.1);
+      background: linear-gradient(to right, #3494E6, #EC6EAD);
+
+    }
+
+    .header h2 {
+      margin: 0;
+      padding: 25px 0;
+      font-size: 40px;
+      font-weight: bolder;
+      letter-spacing: 1px;
+      color: #FFF;
+    }
+
+    .app {
+      width: 600px;
+      margin: 8px auto;
+      /*background-color: #ffffff;*/
+    }
+
+    .section {
+      /*display: block;*/
+      display: grid;
+      align-content: space-around;
+      margin-bottom: 8px;
+      padding-top: 8px;
+      padding-left: 32px;
+      padding-right: 32px;
+      padding-bottom: 32px;
+      background-color: #fff;
+      box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.157);
+    }
+
+    .hide {
+      display: none;
+    }
+
+    .pulsante {
+      cursor: pointer;
+    }
+
+    .barrapulsanti {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+    }
+
+    .barrapulsanti .pulsante {
+      text-align: center;
+      padding: 20px 20px;
+      color: white;
+      transition: 300ms ease-in-out;
+      box-shadow: 0px 4px 20px #ccc;
+      font-size: 16px;
+      /*margin: 8px 2.6%;*/
+      margin: 8px;
+    }
+
+    .barrapulsanti .pulsante:hover {
+      /*transform: translateY(-3px);*/
+      box-shadow: 0px 2px 20px #777;
+    }
+
+    .purple {
+      background-color: #aa66cc;
+      border-bottom: 3px solid #9933cc;
+    }
+
+    .turchese {
+      background-color: #33b5e5;
+      border-bottom: 3px solid #0099cc;
+    }
+
+    .indirizzoVideoSelezionato {
+      margin-top: 8px;
+    }
+
+    #indirizzoVideoSelezionato {
+      width: 100%;
+      margin-top: 4px;
+      padding: 8px;
+      font-style: italic;
+      border-style: solid;
+      border-width: 1px;
+      border-color: #0099cc;
+      color: #0099cc;
+    }
+
+    .tabellarisultati {
+      display: grid;
+      grid-template-columns: 1fr 2fr;
+    }
+
+    .nome-proprieta {
+      border-bottom-style: dotted;
+      border-bottom-color: #ffffff;
+      border-bottom-width: 1px;
+      background-color: #aa66cc;
+      color: #ffffff;
+    }
+
+    .proprieta {
+      border-bottom-style: dotted;
+      border-bottom-color: #9933cc;
+      border-bottom-width: 1px;
+      color: #9933cc;
+      padding-left: 8px;
+    }
+
+    .credits {
+    }
+  </style>
+</head>
+
+<body>
+  <div class="header">
+    <div class="logotitolo">
+      <div><img src="./images/videoinfotitolo.png" alt="Logo"></div>
+      <!--<div><h2>Video Info</h2></div></div>-->
+    </div>
+  </div>
+  <form class="hide">
+    <div>
+      <label>Select a video</label>
+      <input id="input-sceglivideo" type="file" accept="video/x-msvideo,video/x-mpeg2,video/quicktime" />
+    </div>
+  </form>
+
+  <div class="app">
+    <div class="section">
+      <div class="barrapulsanti">
+        <p id="btn-sceglivideo" onclick="scegliVideo()" class="pulsante turchese">Scegli un video</p>
+        <p id="btn-ottieniinformazioni" onclick="ottieniInformazioni()" class="pulsante purple">Ottieni informazioni</p>
+      </div>
+      <div class="indirizzoVideoSelezionato">
+        <div style="color:#0099cc;"> <strong>Video Scelto: </strong></div>
+        <div id="indirizzoVideoSelezionato">nessun video selezionato</div>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="titoloTabellaRisultati">
+        <h3 style="color:#9933cc;">Dati del video</h3></div>
+      <div class="tabellarisultati">
+        <div class="nome-proprieta">shortFilename</div>
+        <div class="proprieta" id="shortFilename"></div>
+
+        <div class="nome-proprieta">format_long_name</div>
+        <div class="proprieta" id="format_long_name"></div>
+
+        <div class="nome-proprieta">duration</div>
+        <div class="proprieta" id="duration"></div>
+
+        <div class="nome-proprieta">size</div>
+        <div class="proprieta" id="size"></div>
+
+        <div class="nome-proprieta">codec_type</div>
+        <div class="proprieta" id="codec_type"></div>
+
+        <div class="nome-proprieta">codec_name</div>
+        <div class="proprieta" id="codec_name"></div>
+
+        <div class="nome-proprieta">width</div>
+        <div class="proprieta" id="width"></div>
+
+        <div class="nome-proprieta">height</div>
+        <div class="proprieta" id="height"></div>
+
+        <div class="nome-proprieta">display_aspect_ratio</div>
+        <div class="proprieta" id="display_aspect_ratio"></div>
+
+        <div class="nome-proprieta">avg_frame_rate</div>
+        <div class="proprieta" id="avg_frame_rate"></div>
+
+      </div>
+    </div>
+    <div class="section credits">
+      <div><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="./images/licenza-CC BY 4.0.png" /></a>
+      Made with <span style="color: #e25555;">&#9829;</span> by <a href="#" onclick="vaiAPaginaEsterna('http://stranianelli.com');return false;" title="StraniAnelli">StraniAnelli</a>.</div>
+      <div>Icons made by <a href="#" title="Freepik" onclick="vaiAPaginaEsterna('http://www.freepik.com');return false;">Freepik</a> from <a href="#" title="Flaticon" onclick="vaiAPaginaEsterna('http://www.flaticon.com');return false;">www.flaticon.com</a> is licensed by <a href="#" onclick="vaiAPaginaEsterna('http://creativecommons.org/licenses/by/3.0/');return false;" title="Creative Commons BY 3.0"
+          target="_blank">CC 3.0 BY</a></div>
+    </div>
+  </div>
+
+  <script>
+    const electron = require('electron');
+    const {
+      ipcRenderer,
+      shell
+    } = electron;
+
+    function scegliVideo() {
+      document.getElementById("input-sceglivideo").click();
+    }
+
+    document.getElementById("input-sceglivideo").onchange = function() {
+      document.querySelector('#indirizzoVideoSelezionato').innerHTML = `${document.querySelector('input').files[0].path}`;
+    }
+
+    function ottieniInformazioni() {
+      const {
+        path
+      } = document.querySelector('input').files[0];
+      ipcRenderer.send('video:submit', path);
+    }
+    // TODO   mostrare il tempo nel formato ore:minuti:secondi
+    function toHHMMSS(secondi) {
+      const sec_num = secondi.toFixed(0);
+      let hours = Math.floor(sec_num / 3600);
+      let minutes = Math.floor((sec_num - (hours * 3600)) / 60);
+      let seconds = sec_num - (hours * 3600) - (minutes * 60);
+
+      if (hours < 10) {
+        hours = "0" + hours;
+      }
+      if (minutes < 10) {
+        minutes = "0" + minutes;
+      }
+      if (seconds < 10) {
+        seconds = "0" + seconds;
+      }
+      return hours + ':' + minutes + ':' + seconds;
+    }
+
+    // per mostrare la dimensione del file in KB/MB, ecc, in base alla dimensione
+    function formatBytes(bytes, decimals) {
+      if (bytes == 0) return '0 Bytes';
+      const k = 1024,
+        dm = decimals || 2,
+        sizes = ['Bytes', 'KB', 'MB', 'GB', 'TB', 'PB', 'EB', 'ZB', 'YB'],
+        i = Math.floor(Math.log(bytes) / Math.log(k));
+      return parseFloat((bytes / Math.pow(k, i)).toFixed(dm)) + ' ' + sizes[i];
+    }
+
+    ipcRenderer.on('video:metadata', (event, infoVideo) => {
+      const {
+        shortFilename,
+        format_long_name,
+        duration,
+        size,
+        codec_type,
+        codec_name,
+        width,
+        height,
+        display_aspect_ratio,
+        avg_frame_rate
+      } = infoVideo;
+      document.querySelector('#shortFilename').innerHTML = `${shortFilename}`;
+      document.querySelector('#format_long_name').innerHTML = `${format_long_name}`;
+      document.querySelector('#duration').innerHTML = `${toHHMMSS(duration)}`;
+      document.querySelector('#size').innerHTML = `${formatBytes(size)}`;
+      document.querySelector('#codec_type').innerHTML = `${codec_type}`;
+      document.querySelector('#codec_name').innerHTML = `${codec_name}`;
+      document.querySelector('#width').innerHTML = `${width}`;
+      document.querySelector('#height').innerHTML = `${height}`;
+      document.querySelector('#display_aspect_ratio').innerHTML = `${display_aspect_ratio}`;
+      document.querySelector('#avg_frame_rate').innerHTML = `${avg_frame_rate}`;
+    });
+
+    function vaiAPaginaEsterna(url) {
+      shell.openExternal(url);
+    }
+  </script>
+
+</body>
+
+</html>
