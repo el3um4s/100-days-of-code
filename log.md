@@ -7,9 +7,9 @@
 1. R1D3 - FreeCodeCamp - [**Tic Tac Toe Game**](https://codepen.io/el3um4s/full/rpGwdL)
 1. R1D5 - FreeCodeCamp - [**Simon Game**](https://codepen.io/el3um4s/full/mppddR/)
 1. R1D7 - [**Layout italian keyboard with tilde and backtick** per Windows](https://github.com/el3um4s/Tastiera-Italiana-Con-Tilde-Backtick)
-1. R1D16 - Udemy - [**Video Info**](https://github.com/el3um4s/electron-videoinfo/blob/master/README.md)
-1. R1D25 - Udemy - [**Tasky**](https://github.com/el3um4s/electron-tasky) (Only the course's code)
-1. R1D27 - Udemy - [**Convert**](https://github.com/el3um4s/electron-convert) (Only the course's code)
+1. R1D16 - Udemy - [**Video Info**](https://github.com/el3um4s/100-days-of-code/blob/master/Udemy/electron-react-tutorial/electron-videoinfo/README.md)
+1. R1D25 - Udemy - [**Tasky**](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/electron-react-tutorial/electron-tasky) (Only the course's code)
+1. R1D27 - Udemy - [**Convert**](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/electron-react-tutorial/electron-convert) (Only the course's code)
 1. R1D47 - GitHub - [VueJS - **Random Quote Machine**](https://el3um4s.github.io/FCC-Random-Quote-Machine/)
 1. GitHub - [VueJS - **Vue-Calc**](https://github.com/el3um4s/vue-calc) ([link to Electron site](https://electronjs.org/apps/vue-calc))
 1. GitHub - [**Local Server for Construct 3**](https://github.com/el3um4s/local-server-for-construct-3) ([link to Scirra site](https://www.scirra.com/forum/local-server-for-construct-3-windows_t202749))
@@ -171,7 +171,7 @@ I added to my `To Do List` the Udacity course about *JavaScript Promises*.
   2. Basic of GitHub
   3. Electron's History
 
-I started a new Udemy Course: [Electron for Desktop Apps](https://www.udemy.com/electron-react-tutorial/) by Stephen Grider ([@ste_grider](https://twitter.com/ste_grider)) I opened a new Git to track my progress in the first project: [electron-videoinfo](https://github.com/el3um4s/electron-videoinfo).
+I started a new Udemy Course: [Electron for Desktop Apps](https://www.udemy.com/electron-react-tutorial/) by Stephen Grider ([@ste_grider](https://twitter.com/ste_grider)) I opened a new Git to track my progress in the first project: [electron-videoinfo](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/electron-react-tutorial/electron-videoinfo).
 
 
 ### R1D13: January 17, 2018 (1h)
@@ -180,7 +180,7 @@ I started a new Udemy Course: [Electron for Desktop Apps](https://www.udemy.com/
 
 Link:
  * [Electron for Desktop Apps](https://www.udemy.com/electron-react-tutorial/)
- * [electron-videoinfo](https://github.com/el3um4s/electron-videoinfo)
+ * [electron-videoinfo](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/electron-react-tutorial/electron-videoinfo)
 
 ### R1D14: January 18, 2018 (2h)
 
@@ -193,7 +193,7 @@ Link:
 
 ### R1D16: January 20, 2018 (4h)
 
-`16th day` Finito il progetto **Video Info**. Ho creato un file eseguibile (portable) per Windows (64bit) e un installer per Linux (deb a 64bit). Inoltre ho aggiornato il repository GitHub completando il file [README](https://github.com/el3um4s/electron-videoinfo/blob/master/README.md) aggiungendo un'immagine dell'app in esecuzione.
+`16th day` Finito il progetto **Video Info**. Ho creato un file eseguibile (portable) per Windows (64bit) e un installer per Linux (deb a 64bit). Inoltre ho aggiornato il repository GitHub completando il file [README](https://github.com/el3um4s/100-days-of-code/blob/master/Udemy/electron-react-tutorial/electron-videoinfo/README.md) aggiungendo un'immagine dell'app in esecuzione.
 
 
 ### R1D17: January 21, 2018 (1h)
@@ -227,21 +227,21 @@ Link:
 
  Link:
   * [Electron for Desktop Apps](https://www.udemy.com/electron-react-tutorial/)
-  * [GitHub - electron-todos](https://github.com/el3um4s/electron-todos)
+  * [GitHub - electron-todos](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/electron-react-tutorial/electron-todos)
 
 ### R1D21: January 25, 2018 (2h)
 
 `21st day` Oggi ho fatto pochino: sono andato avanti con i video del corso Udemy su Electron. Ma prima ho finito l'esercizio sull'app **Todos**. Manca tutta la parte grafica: per il momento mi sono concentrato sul capire i concetti generali.
 
 Link:
-  * [GitHub - electron-todos](https://github.com/el3um4s/electron-todos)
+  * [GitHub - electron-todos](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/electron-react-tutorial/electron-todos)
 
 ### R1D22: January 26, 2018 (1h)
 
 `22nd day` Procedo con il corso Udemy su Electron. La parte di oggi riguarda come aggiungere l'icona sulla barra delle notifiche di Windows e osX. Peccato che ci siano un po' di problemi con Linux/Ubuntu. Per il momento ho usato un workaround tramite [electron-traywindow-positione](https://www.npmjs.com/package/electron-traywindow-positioner). Che poi è stata una fortuna perché è un modulo npm aggiornato solamente un paio di giorni fa.
 
 Link:
-  * [GitHub - electron-tasky](https://github.com/el3um4s/electron-tasky)
+  * [GitHub - electron-tasky](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/electron-react-tutorial/electron-tasky)
 
 ### R1D23: January 27, 2018 (1h)
 
@@ -251,10 +251,10 @@ Link:
 ### R1D24: January 28, 2018 (1h)
 
 `24th day` Ho finito il terzo esercizio del corso. Ho scoperto, con mio sommo dispiacere, che Electron ha un po' di problemi con Ubuntu. Anzi, scorrendo le domande del corso, ci sono più problemi con Linux in generale. Ci sono dei workaround ma è un peccato.
-Non penso che andròa modificare ulteriormente questo progetto: è costruito con React, e non conosco nulla di React. Invece, dopo aver fatto il quarto esercizio (quello sulla parte _Combining Electron with React and Redux_) voglio tornare sulla app [electron-todos](https://github.com/el3um4s/electron-todos) per sistemare la parte grafica e fare un po' di esercizio.
+Non penso che andròa modificare ulteriormente questo progetto: è costruito con React, e non conosco nulla di React. Invece, dopo aver fatto il quarto esercizio (quello sulla parte _Combining Electron with React and Redux_) voglio tornare sulla app [electron-todos](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/electron-react-tutorial/electron-todos) per sistemare la parte grafica e fare un po' di esercizio.
 
 Link:
-  * [GitHub - electron-tasky](https://github.com/el3um4s/electron-tasky)
+  * [GitHub - electron-tasky](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/electron-react-tutorial/electron-tasky)
 
 
 ### R1D25: January 29, 2018 (1h)
@@ -270,15 +270,15 @@ Link:
 In ogni caso, ho creato il repository del progetto **electron-convert**
 
 Link:
- * [GitHub - electron-convert](https://github.com/el3um4s/electron-convert)
+ * [GitHub - electron-convert](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/electron-react-tutorial/electron-convert)
 
 
 ### R1D27: January 31, 2018 (1h)
 
-`27th day` Ho completato [**electron-convert**]((https://github.com/el3um4s/electron-convert) e finito il corso [Electron for Desktop Apps](https://www.udemy.com/electron-react-tutorial/). Sono soddisfatto: adesso ho una infarinatura generale di come funziona Electron.
+`27th day` Ho completato [**electron-convert**](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/electron-react-tutorial/electron-convert) e finito il corso [Electron for Desktop Apps](https://www.udemy.com/electron-react-tutorial/). Sono soddisfatto: adesso ho una infarinatura generale di come funziona Electron.
 
 Link:
- * [GitHub - electron-convert](https://github.com/el3um4s/electron-convert)
+ * [GitHub - electron-convert](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/electron-react-tutorial/electron-convert)
 
 
 ### R1D28: February 1, 2018 (1h)

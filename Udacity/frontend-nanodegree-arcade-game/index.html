@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+  <title>Effective JavaScript: Frogger</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <div class="elementiProgetto">
+    <div class="informazioni">
+      <div class="info" id="about">
+        <div class="carta">
+          <h3>ABOUT</h3>
+          <p>This is the project for Udacity's Object-Oriented JavaScript course: create a frogger-style game.</p>
+        </div>
+      </div>
+      <div class="info" id="how">
+        <div class="carta">
+          <h3>HOW TO PLAY</h3>
+          <p>Use the arrow keys to move the player across the board. Reaching the water is a win, colliding with a bug is a lose.</p>
+        </div>
+      </div>
+    </div>
+    <div class="campo">
+      <canvas id="canvas" width="505" height="606"></canvas>
+    </div>
+    <div class="punteggio">
+      <div class="punti">
+        <div class="carta">
+          <h3>SCORE</h3>
+          <P>Game: <span id="scoreGame">0</span></P>
+          <P>Record: <span id="recordGame">0</span></P>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="titoloProgetto">
+    <div class="carta centrato">
+      Arcade Clone Demo
+      </div>
+  </div>
+  <script src="js/resources.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/engine.js"></script>
+
+</body>
+
+</html>

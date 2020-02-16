@@ -1,0 +1,57 @@
+body {
+  background-color: #F2F2F2;
+  color: #757575;
+  font-family: 'Roboto', sans-serif;
+}
+
+.elementiProgetto {
+  width: 900px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 195px 505px 195px;
+  justify-items: center;
+  align-items: center;
+}
+
+.informazioni, .punteggio {
+  width: 90%;
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  align-items: center;
+  justify-items: center;
+}
+
+.info, .punti {
+  /*background-color: yellow;
+  border-width: 1px;
+  border-style: solid;
+  border-color: red;*/
+  width: 90%;
+  min-height: 200px;
+}
+
+.carta{
+  margin: 4px;
+  background: white;
+  padding: 4px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.16), 0 2px 5px rgba(0, 0, 0, 0.26);
+  border: 1px solid #eee;
+}
+
+h3 {
+  text-align: center;
+}
+
+.titoloProgetto {
+  position: fixed;
+  top: 8px;
+  width: 100%;
+}
+
+.centrato{
+  text-align: center;
+  margin: auto;
+  width: 300px;
+  font-size: 24px;
+  font-weight: bold;
+}
