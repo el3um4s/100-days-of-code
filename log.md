@@ -10,7 +10,7 @@
 1. R1D16 - Udemy - [**Video Info**](https://github.com/el3um4s/100-days-of-code/blob/master/Udemy/electron-react-tutorial/electron-videoinfo/README.md)
 1. R1D25 - Udemy - [**Tasky**](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/electron-react-tutorial/electron-tasky) (Only the course's code)
 1. R1D27 - Udemy - [**Convert**](https://github.com/el3um4s/100-days-of-code/tree/master/Udemy/electron-react-tutorial/electron-convert) (Only the course's code)
-1. R1D47 - GitHub - [VueJS - **Random Quote Machine**](https://el3um4s.github.io/FCC-Random-Quote-Machine/)
+1. R1D47 - GitHub - [VueJS - **Random Quote Machine**](https://github.com/el3um4s/100-days-of-code/tree/master/FreeCodeCamp/FCC-Random-Quote-Machine)
 1. GitHub - [VueJS - **Vue-Calc**](https://github.com/el3um4s/vue-calc) ([link to Electron site](https://electronjs.org/apps/vue-calc))
 1. GitHub - [**Local Server for Construct 3**](https://github.com/el3um4s/local-server-for-construct-3) ([link to Scirra site](https://www.scirra.com/forum/local-server-for-construct-3-windows_t202749))
 1. GitHub - [**Bubbly Background - Construct 3 Addon**](https://el3um4s.github.io/c3-global-plugin-bubbly-background/) ([Online Demo](https://el3um4s.github.io/c3-global-plugin-bubbly-background/demo/www/index.html))
@@ -206,8 +206,7 @@ Link:
 `18th day` Ho finito di vedere i video del corso [Object-Oriented JavaScript](https://eu.udacity.com/course/object-oriented-javascript--ud015). Da domani dovrò cominciare a lavorare sul progetto finale: creare un clone di **Frogger** (deve essere simile a [questo video](https://www.youtube.com/watch?v=p2JhGrrwLuQ&feature=youtu.be)).
 
 Documenti e cose da leggere per domani:
- * [Frogger Game - Getting Started](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/edit
-)
+ * [Frogger Game - Getting Started](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/edit)
  * [Classic Arcade Game Clone](https://review.udacity.com/#!/rubrics/15/view)
  * [GitHub: frontend-nanodegree-arcade-game](https://github.com/udacity/frontend-nanodegree-arcade-game)
  * [Video](https://www.youtube.com/watch?v=p2JhGrrwLuQ&feature=youtu.be)
@@ -217,8 +216,8 @@ Documenti e cose da leggere per domani:
 `19th day` Finito il progetto **Frogger**. Adesso è tardissimo, domani ci sarà da sistemare il README. Per il momento, evviva!
 
 Link:
- * [pagina per giocare](https://el3um4s.github.io/frontend-nanodegree-arcade-game/)
- * [codice](https://github.com/el3um4s/frontend-nanodegree-arcade-game)
+ * [pagina per giocare](https://el3um4s.github.io/100-days-of-code/Udacity/frontend-nanodegree-arcade-game/)
+ * [codice](https://github.com/el3um4s/100-days-of-code/tree/master/Udacity/frontend-nanodegree-arcade-game)
 
  ### R1D20: January 24, 2018 (2h)
 
@@ -402,7 +401,7 @@ props: { value: Object }
 
 `48th day` Finalmente sono riuscito a lavorare un pochino senza troppi impicci. Non avevo voglia di studiare e di affrontare un altro capitolo del corso, quindi ho deciso di provare a mettere in pratica quanto imparato finora. Ho rifatto uno dei progetti di FreeCodeCamp, **Random Quote Machine**. È un'app molto semplice: mostra una citazione (più o meno famosa) e cliccando sul pulsante _New Quote_ ne mostra una nuova scelta casualmente da un archivio. È la seconda volta che rifaccio questo esercizio, ma è la prima votla che sono davvero soddisfatto del risultato ottenuto. VueJS è una soluzione facile, veloce e sopratutto comoda.
 
-[Link alla Random Quote Machine](https://el3um4s.github.io/FCC-Random-Quote-Machine/)
+[Link alla Random Quote Machine](https://github.com/el3um4s/100-days-of-code/tree/master/FreeCodeCamp/FCC-Random-Quote-Machine)
 
 ### R1D49: February 26, 2018 (1h)
 
