@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/el3um4s/electron-todos#readme",
   "dependencies": {
-    "electron": "^1.8.1"
+    "electron": "^7.2.4"
   },
   "devDependencies": {
     "eslint-config-rallycoding": "^3.2.0"
