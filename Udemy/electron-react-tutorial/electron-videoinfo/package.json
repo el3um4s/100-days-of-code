@@ -50,7 +50,7 @@
   },
   "devDependencies": {
     "7zip-bin": "^2.4.1",
-    "electron": "^1.8.8",
+    "electron": "^7.2.4",
     "electron-builder": "^19.55.2"
   }
 }
